@@ -1,75 +1,63 @@
 id,variante,categorie,anglais,arabe_litteraire,francais,arabe_tchadien_masculin,translit_masculin,arabe_tchadien_feminin,translit_feminin,note
-221,1,Technologie et communication,My phone,هاتفي,Mon téléphone,تليفوني,telefoni,تليفوني,telefoni,invariable
-221,2,Technologie et communication,My phone,هاتفي,Mon téléphone,جوّالي,jawwali,جوّالي,jawwali,invariable
-222,1,Technologie et communication,My battery is low,بطاريتي ضعيفة,Ma batterie est faible,بطارتي ضعيفة,battariti daifa,بطارتي ضعيفة,battariti daifa,invariable
-223,1,Technologie et communication,I have no network,ليس لدي شبكة,Je n'ai pas de réseau,الشبكة تعبانة,al chabaka taabane,الشبكة تعبانة,al chabaka taabane,invariable
-223,2,Technologie et communication,I have no network,ليس لدي شبكة,Je n'ai pas de réseau,الريزو ما عادل,al rezo ma adil,الريزو ما عادل,al rezo ma adil,invariable
-223,3,Technologie et communication,I have no network,ليس لدي شبكة,Je n'ai pas de réseau,الريزو تعبان,al rezo taaban,الريزو تعبان,al rezo taaban,invariable
-224,1,Technologie et communication,Send me a message,أرسل لي رسالة,Envoie-moi un message,ارسل لي رسالة,arsil ley risala,ارسلي لي رسالة,arsili ley risala,destinataire h/f
-225,1,Technologie et communication,Call me,اتصل بي,Appelle-moi,نادني,nadini,نادني,nadini,invariable - destinataire non marque
-226,1,Technologie et communication,I will call you back,سأتصل بك لاحقاً,Je te rappelle,أنا أنادك,ni nadik,أنا أناديكي,ni nadiki,destinataire h/f
-227,1,Technologie et communication,I did not hear,لم أسمع,Je n'ai pas entendu,ما سمعت,ma simit,ما سمعت,ma simit,invariable
-228,1,Technologie et communication,Speak louder,ارفع صوتك,Parle plus fort,ارفع صوتك,arfaa sawtak,ارفعي صوتكي,arfae sawtki,destinataire h/f
-229,1,Technologie et communication,My internet connection,اتصالي بالإنترنت,Ma connexion internet,شبكتي,chabakati,شبكتي,chabakati,invariable
-230,1,Technologie et communication,I have no more credit,لم يبق لدي رصيد,Je n'ai plus de crédit,ما عندي رصيد,ma indi rasid,ما عندي رصيد,ma indi rasid,invariable
-230,2,Technologie et communication,I have no more credit,لم يبق لدي رصيد,Je n'ai plus de crédit,ما عندي كريدي,ma indi kredi,ما عندي كريدي,ma indi kredi,invariable
-231,1,Technologie et communication,Charge my phone,اشحن هاتفي,Charge mon téléphone,أشحن تليفوني,achhan telefoni,أشحني تليفوني,achhane telefoni,destinataire h/f
-231,2,Technologie et communication,Charge my phone,اشحن هاتفي,Charge mon téléphone,أشحن جوّالي,achhan jawwali,أشحني جوّالي,achhane jawali,destinataire h/f
-232,1,Technologie et communication,Take a photo,التقط صورة,Prends une photo,شيل صورة,chil soura,شيلي صورة,chili soura,destinataire h/f
-233,1,Technologie et communication,Watch this video,شاهد هذا الفيديو,Regarde cette vidéo,شيف الفيديو دا,chif al vidyo da,شيفي الفيديو دا,chifi al vidyo da,destinataire h/f
-234,1,Technologie et communication,Listen to this audio,استمع لهذا الصوت,Écoute cet audio,اسمع الصوتية دي,asma alsawtiyya di,اسمعي الصوتية دي,asmae al sawtiyya di,destinataire h/f
-235,1,Technologie et communication,Send me mobile money,أرسل لي أموالاً عبر الهاتف,Envoie-moi l'argent mobile,ارسل لي قروش,rassil leyi gourous,ارسلي لي قروش,rassili leyi gourous,destinataire h/f
-236,1,Technologie et communication,I received your message,وصلتني رسالتك,J'ai reçu ton message,رسالتك وصلتني,risaltak wasalatni,رسالتكي وصلتني,risalitki wasalatni,destinataire h/f
-236,2,Technologie et communication,I received your message,وصلتني رسالتك,J'ai reçu ton message,لقيت رسالة حنتك,ligit risala hintak,لقيت رسالة حنتكي,ligit risala hintiki,destinataire h/f
-237,1,Technologie et communication,I saw you online,رأيتك متصلاً,Je t'ai vu en ligne,شفتك داخل,chiftak dakhil,شفتكي داخلة,chiftiki dakhila,destinataire h/f
-238,1,Technologie et communication,Turn off your phone,أطفئ هاتفك,Éteins ton téléphone,سدّ تليفونك,sidda telefonak,سدّي تليفونكي,siddi telefonki,destinataire h/f
-238,2,Technologie et communication,Turn off your phone,أطفئ هاتفك,Éteins ton téléphone,سدّ جوّالك,sidda jawwalak,سدّي جوّالكي,siddi jawwalki,destinataire h/f
-239,1,Technologie et communication,Turn on your phone,شغّل هاتفك,Allume ton téléphone,افتح تليفونك,aftah telefonak,افتحي تليفونكي,aftahe telefonki,destinataire h/f
-239,2,Technologie et communication,Turn on your phone,شغّل هاتفك,Allume ton téléphone,افتح جوّالك,aftah jawwalak,افتحي جوّالكي,aftahe jawwalki,destinataire h/f
-240,1,Technologie et communication,My phone is broken,هاتفي معطّل,Mon téléphone est cassé,تليفوني كسران,telefoni kassar,تليفوني كسران,telefoni kassar,invariable
-240,2,Technologie et communication,My phone is broken,هاتفي معطّل,Mon téléphone est cassé,جوّالي كسران,jawwali kassar,جوّالي كسران,jawwali kassar,invariable
-241,1,Emotions et caractere,I am angry,أنا غاضب,Je suis en colère,أنا زعلان,ana zaalan,أنا زعلانة,ana zaalana,
-241,2,Emotions et caractere,I am angry,أنا غاضب,Je suis en colère,أنا خبّان,ana khabban,أنا خبّان,ana khabban,invariable
-242,1,Emotions et caractere,I am surprised,أنا متفاجئ,Je suis surpris,أنا اتفاجأت,ana itfaajat,أنا اتفاجأت,ana itfaajat,invariable
-243,1,Emotions et caractere,I am worried,أنا قلق,Je suis inquiet,أنا قاعد نهيم,ana gaid ni him,أنا قاعدة نهيم,ana gaade ni him,
-244,1,Emotions et caractere,I am relieved,أنا مرتاح,Je suis soulagé,ارتاحيت,irtahet,ارتاحيت,irtahet,invariable
-245,1,Emotions et caractere,I am scared,أنا خائف,J'ai peur,أنا خوف,ana khouf,أنا خوف,ana khouf,invariable
-245,2,Emotions et caractere,I am scared,أنا خائف,J'ai peur,أنا خايف,ana khayif,أنا خايفة,ana khayifa,
-246,1,Emotions et caractere,I am brave,أنا شجاع,Je suis courageux,أنا مشدّي,ana mushaddi,أنا مشدّية,ana mushaddiya,
-247,1,Emotions et caractere,I am shy,أنا خجول,Je suis timide,أنا خجلان,ana khajlan,أنا خجلانة,ana khajlana,
-248,1,Emotions et caractere,I am kind,أنا لطيف,Je suis gentil,أنا عادل,ana adil,أنا عادلة,ana adila,forme feminine non confirmee
-249,1,Emotions et caractere,He is mean,هو شرير,Il est méchant,هو كشران,hu kashran,,,sujet fixe masculin - "il"
-250,1,Emotions et caractere,She is intelligent,هي ذكية,Elle est intelligente,,,هي ذكية,hi zakiyya,sujet fixe feminin - "elle"
-251,1,Emotions et caractere,He is lazy,هو كسول,Il est paresseux,هو عاطل,hou atil,,,sujet fixe masculin - "il"
-252,1,Emotions et caractere,She is hardworking,هي مجتهدة,Elle est travailleuse,,,هي خدّامة,hi khaddama,sujet fixe feminin - "elle"
-253,1,Emotions et caractere,I am honest,أنا صادق,Je suis honnête,أنا صادق,ana sadikh,أنا صادقة,ana sadikha,forme feminine non confirmee
-254,1,Emotions et caractere,Don't lie to me,لا تكذب علي,Ne me mens pas,ما دقدب,ma dagdib,ما دقدب,ma dagdib,destinataire h/f - forme unique donnee
-254,2,Emotions et caractere,Don't lie to me,لا تكذب علي,Ne me mens pas,ما تكذب,ma tagzib,ما تكذب,ma tagzib,destinataire h/f - forme unique donnee
-254,3,Emotions et caractere,Don't lie to me,لا تكذب علي,Ne me mens pas,ما تكدب,ma takidib,ما تكدب,ma takidib,destinataire h/f - forme unique donnee
-255,1,Emotions et caractere,I trust you,أنا أثق بك,Je te fais confiance,عندي ثقة فوقك,indi sigha fogak,عندي ثقة فوقكي,indi sigha fokki,destinataire h/f
-256,1,Emotions et caractere,I don't believe you,لا أصدقك,Je ne te crois pas,أنا ما صدقتك,ana ma saddakhtak,أنا ما صدقتكي,ana ma saddakhtik,destinataire h/f
-257,1,Emotions et caractere,I am sorry,أنا آسف,Je suis désolé,أنا مؤسف,ana mu assif,أنا مؤسفة,ana muassifa,
-257,2,Emotions et caractere,I am sorry,أنا آسف,Je suis désolé,أنا آسف,ana assif,أنا آسفة,ana assifa,
-258,1,Emotions et caractere,Excuse me,اعذرني,Excuse-moi,سامحني,samihni,سامحيني,samihini,destinataire h/f
-258,2,Emotions et caractere,Excuse me,اعذرني,Excuse-moi,سامني,samini,,,forme unique - feminin non confirme
-259,1,Emotions et caractere,I forgive you,أسامحك,Je te pardonne,أنا سامحتك,ana samahtak,أنا سامحتكي,ana samahtiki,destinataire h/f
-259,2,Emotions et caractere,I forgive you,أسامحك,Je te pardonne,أنا سامتك,ana sametak,أنا سامتكي,ana sametiki,destinataire h/f
-260,1,Emotions et caractere,I love you,أحبك,Je t'aime,أنا بحبك,ana bahibak,أنا بحبكي,ana bahibiki,destinataire h/f
-260,2,Emotions et caractere,I love you,أحبك,Je t'aime,أنا نريدك,ana ni ridak,أنا نريدكي,ana ni ridki,destinataire h/f
-261,1,Ecole et education,I am going to school,أنا ذاهب إلى المدرسة,Je vais à l'école,أنا ماشي المدرسة,ana machi al madrasa,أنا ماشية المدرسة,ana machie al madrasa,
-261,2,Ecole et education,I am going to school,أنا ذاهب إلى المدرسة,Je vais à l'école,أنا ماشي الإيكول,ana machi al ecol,أنا ماشية الإيكول,ana machie al ecol,
-262,1,Ecole et education,My teacher,أستاذي,Mon professeur,أستاذي,oustazi,أستاذتي,oustazti,
-262,2,Ecole et education,My teacher,أستاذي,Mon professeur,سيدي,sayyidi,,,forme feminine non confirmee
-263,1,Ecole et education,My classmates,زملائي في الفصل,Mes camarades de classe,رفقاني في الفصل,rufugani fil fasil,رفقاني في الفصل,rufugani fil fasil,invariable
-263,2,Ecole et education,My classmates,زملائي في الفصل,Mes camarades de classe,زملاني في الفصل,zumulani fil fasil,زملاني في الفصل,zumulani fil fasil,invariable
-264,1,Ecole et education,I have an exam,عندي امتحان,J'ai un examen,عندي امتحان,indi imtihan,عندي امتحان,indi imtihan,invariable
-265,1,Ecole et education,I passed,نجحت,J'ai réussi,نجحت,ana najaht,نجحت,ana najaht,invariable
-265,2,Ecole et education,I passed,نجحت,J'ai réussi,لقيت,ana ligit,لقيت,ana ligit,invariable
-266,1,Ecole et education,I failed,رسبت,J'ai échoué,سخت,ana sakhat,سخت,ana sakhat,invariable
-266,2,Ecole et education,I failed,رسبت,J'ai échoué,رسبت,ana rasab,رسبت,ana rasab,invariable
-266,3,Ecole et education,I failed,رسبت,J'ai échoué,ما لقيت,ana ma ligit,ما لقيت,ana ma ligit,invariable
-267,1,Ecole et education,I must study,يجب أن أدرس,Je dois étudier,لازم نقري,ana lazim nagri,لازم نقري,ana lazim nagri,invariable
-268,1,Ecole et education,The book,الكتاب,Le livre,الكتاب,al kitab,الكتاب,al kitab,invariable
-269,1,Ecole et education,The notebook,الكراس,Le cahier,الكراس,al kurras,الكراس,al kurras,invariable
-269,2,Ecole et education,The notebook,الكراس,Le cahier,الكاييه,al kaye,الكاييه,al kaye,invariable
-270,1,Ecole et education,The pen,القلم,Le stylo,القلم,al galam,القلم,al galam,invariable
+761,1,Formalites administratives,The expiration date,تاريخ الانتهاء,La date d'expiration,تاريخ الانتها,tarikh al intiha,تاريخ الانتها,tarikh al intiha,invariable
+762,1,Formalites administratives,My visa,تأشيرتي,Mon visa,تأشيرة حنتي,taashira hinti,تأشيرة حنتي,taashira hinti,invariable
+763,1,Formalites administratives,The customs,الجمارك,La douane,الجمارك,al jamarik,الجمارك,al jamarik,invariable
+764,1,Formalites administratives,The border,الحدود,La frontière,الحدود,al hudud,الحدود,al hudud,invariable
+765,1,Formalites administratives,The inspection,التفتيش,Le contrôle,التفتيش,al taftish,التفتيش,al taftish,invariable
+766,1,Formalites administratives,I have all my papers,لدي كل أوراقي,J'ai tous mes papiers,أوراقي عادلين,awragi adilin,أوراقي عادلين,awragi adilin,invariable
+767,1,Formalites administratives,A document is missing,تنقص وثيقة,Il manque un document,فيه ورقة ناقصة,fi waraga nagisa,فيه ورقة ناقصة,fi waraga nagisa,invariable
+768,1,Formalites administratives,Come back tomorrow with the papers,عد غداً بالأوراق,Reviens demain avec les papiers,تعال امبكر بالأوراق,taal ambakir bel awrag,تعالي امبكر بالأوراق,taali ambakir bel awrag,destinataire h/f
+769,1,Formalites administratives,It is urgent,هذا عاجل,C'est urgent,ضروري,daruri,ضروري,daruri,invariable
+770,1,Formalites administratives,How long does it take,كم يستغرق الوقت,Combien de temps ça prend,بيشيل كم وقت,bishil kam wakit,بيشيل كم وقت,bishil kam wakit,invariable
+771,1,Formalites administratives,I have to pay a tax,يجب أن أدفع ضريبة,Je dois payer une taxe,أنا ندر نكفّي ضريبة,ana nidor ni kaffi dariba,أنا ندر نكفّي ضريبة,ana nidor ni kaffi dariba,invariable
+772,1,Formalites administratives,The receipt,الإيصال,Le reçu,الفاتورة,al fatura,الفاتورة,al fatura,invariable
+773,1,Formalites administratives,Keep this receipt,احتفظ بهذا الإيصال,Garde ce reçu,دوم الفاتورة دي,dum al fatura di,دومي الفاتورة دي,dumi al fatura di,destinataire h/f
+774,1,Formalites administratives,The queue,الطابور,La file d'attente,الصف,al saf,الصف,al saf,invariable
+775,1,Formalites administratives,Wait your turn,انتظر دورك,Attends ton tour,ارجا دورك,arja dorak,ارجي دوركي,arjee dorki,destinataire h/f
+776,1,Formalites administratives,Next,التالي,Prochain,الخادم,khadim,الخادم,khadim,invariable
+776,2,Formalites administratives,Next,التالي,Prochain,اللي جاي,al jayi,اللي جاي,al jayi,invariable
+777,1,Formalites administratives,It is your turn,دورك,C'est à toi,دورك انت,dorak inta,دوركي انتي,dorki inti,destinataire h/f
+778,1,Formalites administratives,The counter,الشباك,Le guichet,الشباك,al shubbak,الشباك,al shubbak,invariable
+779,1,Formalites administratives,The employee is not here,الموظف ليس هنا,L'employé n'est pas là,العامل مافي,al amil mafi,العاملة مافيها,al amila mafia,
+780,1,Formalites administratives,Come back in an hour,عد بعد ساعة,Reviens dans une heure,قبل بعد ساعة,gabbil baid saa,قبلي بعد ساعة,gabbili baid saa,destinataire h/f
+781,1,Formalites administratives,I have an appointment,لدي موعد,J'ai un rendez-vous,عندي موعد,indi mawid,عندي موعد,indi mawid,invariable
+782,1,Formalites administratives,I am late for my appointment,أنا متأخر عن موعدي,Je suis en retard pour mon rendez-vous,أخّر بالنسبة للموعد,akhar bel nisba lel mawid,أخّر بالنسبة للموعد,akhar bel nisba lel mawid,invariable
+783,1,Formalites administratives,The file is complete,الملف مكتمل,Le dossier est complet,الملف كامل,al malaf kaamil,الملف كامل,al malaf kaamil,invariable
+784,1,Formalites administratives,The file is incomplete,الملف غير مكتمل,Le dossier est incomplet,الملف ناقص,al malaf nagis,الملف ناقص,al malaf nagis,invariable
+785,1,Formalites administratives,My application was rejected,رُفض طلبي,On m'a refusé ma demande,رفضو طلبي,rafado talabi,رفضو طلبي,rafado talabi,invariable
+786,1,Formalites administratives,My application was accepted,قُبل طلبي,Ma demande a été acceptée,قبلو طلبي,khibilo talabi,قبلو طلبي,khibilo talabi,invariable
+787,1,Formalites administratives,I have to appeal,يجب أن أستأنف,Je dois faire appel,أنا ندر نقدّم استئناف,ana nidor ni gaddim istinaf,أنا ندر نقدّم استئناف,ana nidor ni gaddim istinaf,invariable
+788,1,Formalites administratives,The lawyer,المحامي,L'avocat,المحامي,al muhami,المحامي,al muhami,invariable
+789,1,Formalites administratives,The judge,القاضي,Le juge,القاضي,al ghadi,القاضية,al ghadiya,
+789,2,Formalites administratives,The judge,القاضي,Le juge,الزوس,al zus,الزوسة,al zusa,
+790,1,Formalites administratives,The law,القانون,La loi,القانون,al qanun,القانون,al qanun,invariable
+791,1,Environnement et ecologie,Let's protect nature,لنحمِ الطبيعة,Protégeons la nature,نحافظو للطبيعة,na hafuzu lel tabiia,نحافظو للطبيعة,na hafuzu lel tabiia,invariable
+792,1,Environnement et ecologie,Don't throw away garbage,لا ترمِ القمامة,Ne jette pas les ordures,ما تدفق الوسخ,ma ti daffik al wasakh,ما تدفقي الوسخ,daffigi al wasakh,destinataire h/f
+793,1,Environnement et ecologie,The trash can,سلة المهملات,La poubelle,الوسخ,al wasakh,الوسخ,al wasakh,invariable
+794,1,Environnement et ecologie,Pick up the trash,اجمع القمامة,Ramasse les déchets,خمّ الوسخ,khuma al wasakh,خمّي الوسخ,khumi al wasakh,destinataire h/f
+795,1,Environnement et ecologie,Plastic pollutes,البلاستيك يلوث,Le plastique pollue,اللدة تلوث,al leda ti lus,اللدة تلوث,al leda ti lus,invariable
+796,1,Environnement et ecologie,Let's plant trees,لنزرع أشجاراً,Plantons des arbres,نتربو جدر,ni terubu jadar,نتربو جدر,ni terubu jadar,invariable
+797,1,Environnement et ecologie,The tree gives shade,الشجرة تعطي ظلاً,L'arbre donne de l'ombre,الشجرة تسوي ضل,al shadar ti sey dul,الشجرة تسوي ضل,al shadar ti sey dul,invariable
+798,1,Environnement et ecologie,We must not cut down trees,يجب ألا نقطع الأشجار,Il ne faut pas couper les arbres,ما تقطعو الشجر,ma taktao al shadar,ما تقطعو الشجر,ma taktao al shadar,invariable
+799,1,Environnement et ecologie,The forest,الغابة,La forêt,الغابة,al ghaba,الغابة,al ghaba,invariable
+800,1,Environnement et ecologie,Deforestation,إزالة الغابات,La déforestation,القطعان الشجر,al gattaan al shadar,القطعان الشجر,al gattaan al shadar,invariable
+801,1,Environnement et ecologie,The air is polluted,الهواء ملوث,L'air est pollué,الهوا ملوّث,al hawa mulawas,الهوا ملوّث,al hawa mulawas,invariable
+802,1,Environnement et ecologie,The water is clean,الماء نظيف,L'eau est propre,المويا نظيف,al almi nadif,المويا نظيف,al almi nadif,invariable
+803,1,Environnement et ecologie,The water is dirty,الماء متسخ,L'eau est sale,المويا وسخان,al almi waskhan,المويا وسخان,al almi waskhan,invariable
+804,1,Environnement et ecologie,Save water,وفّر الماء,Économise l'eau,وفّر المويا,waffir al almi,وفّري المويا,waffiri al almi,destinataire h/f
+805,1,Environnement et ecologie,Save electricity,وفّر الكهرباء,Économise l'électricité,وفّر الكهرباء,waffir al kahraba,وفّري الكهرباء,waffiri al kahraba,destinataire h/f
+806,1,Environnement et ecologie,Climate change,التغير المناخي,Le réchauffement climatique,التغيير المناخي,al takhyir al manakhi,التغيير المناخي,al takhyir al manakhi,invariable
+807,1,Environnement et ecologie,It keeps getting hotter,يزداد الجو حرارة,Il fait de plus en plus chaud,دائماً الوقت حامية,daiman al watah hamiye,دائماً الوقت حامية,daiman al watah hamiye,invariable
+808,1,Environnement et ecologie,The rain is no longer regular,المطر لم يعد منتظماً,La pluie n'est plus régulière,المويا ما قاعدة تصب دائماً,al almi ma gaid bi sub daiman,المويا ما قاعدة تصب دائماً,al almi ma gaid bi sub daiman,invariable
+809,1,Environnement et ecologie,The climate has changed,تغيّر المناخ,Le climat a changé,الجو خيّر,al jaw khayyar,الجو خيّر,al jaw khayyar,invariable
+810,1,Environnement et ecologie,Recycle what you can,أعد تدوير ما يمكنك,Recycle ce que tu peux,استعمل اللي تقدر عليه,idistaamal al tagdar leya,استعملي اللي تقدري عليه,idistaamal al tagdare leya,destinataire h/f
+811,1,Environnement et ecologie,Pollution,التلوث,La pollution,التلوث,al talawwus,التلوث,al talawwus,invariable
+812,1,Environnement et ecologie,Keep your neighborhood clean,حافظ على نظافة حيّك,Garde ton quartier propre,خلي حارة حقك نظيفة,khalli hara hintak nadifa,خلي حارة حقكي نظيفة,khalli hara hintiki nadifa,destinataire h/f
+813,1,Environnement et ecologie,Sweep in front of your house,اكنس أمام بيتك,Balaie devant chez toi,اكنس قدام بيتك,gush giddam betak,اكنسي قدام بيتك,gushi giddam betki,destinataire h/f
+814,1,Environnement et ecologie,Nature feeds us,الطبيعة تغذينا,La nature nous nourrit,الطبيعة تطعمنا,al tabia tatimna,الطبيعة تطعمنا,al tabia tatimna,invariable
+815,1,Environnement et ecologie,Respect animals,احترم الحيوانات,Respecte les animaux,احترم البهايم,ihtarim al bahaim,احترمي البهايم,ihtarimi al bahaim,destinataire h/f
+816,1,Environnement et ecologie,Don't hurt animals,لا تؤذِ الحيوانات,Ne fais pas de mal aux animaux,ما تأذي البهايم,ma ta azi al bahayim,ما تأذي البهايم,ma ta azi al bahayim,invariable
+817,1,Environnement et ecologie,Bees are important,النحل مهم,Les abeilles sont importantes,النحلة مهمة,al nahle muhimma,النحلة مهمة,al nahle muhimma,invariable
+818,1,Environnement et ecologie,Without water, nothing grows,بدون ماء لا شيء ينمو,Sans eau, rien ne pousse,بلا مويا شي ما بيقوم,bala almi shay bugum mafi,بلا مويا شي ما بيقوم,bala almi shay bugum mafi,invariable
+819,1,Environnement et ecologie,The soil is getting poorer,التربة تصبح فقيرة,Le sol s'appauvrit,التراب بيفتخر,al turab biftakhir,التراب بيفتخر,al turab biftakhir,invariable
+820,1,Environnement et ecologie,We must protect the rivers,يجب أن نحمي الأنهار,Il faut protéger les rivières,لازم نحفظو للبحور,lazim nahfazo lel buhur,لازم نحفظو للبحور,lazim nahfazo lel buhur,invariable
