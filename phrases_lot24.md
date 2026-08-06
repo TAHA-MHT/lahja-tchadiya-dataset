@@ -29,7 +29,7 @@ id,variante,categorie,francais,arabe_masculin,translit_masculin,arabe_feminin,tr
 1218,1,Amour et relations,Le mariage traditionnel,الزواج التقليد,al zawaj al takhalid,الزواج التقليد,al zawaj al takhalid,invariable
 1219,1,Amour et relations,Je suis fiancé,أنا خاطب,ana khatib,أنا خاطب,ana khatib,invariable - locuteur homme
 1220,1,Amour et relations,Je suis fiancée,أنا مخطوبة,ana makhtuba,أنا مخطوبة,ana makhtuba,invariable - locuteur femme
-1221,1,Amour et relations,Nous allons nous marier,نلاخدو,nil akhudo,نلاخدو,nil akhudo,invariable
+1221,1,Amour et relations,Nous allons nous marier,نلاخدو,nil akhodo,نلاخدو,nil akhodo,invariable
 1222,1,Amour et relations,Félicitations pour vos fiançailles,خطوبة مباركة,khutuba mubaraka,خطوبة مباركة,khutuba mubaraka,invariable
 1223,1,Amour et relations,Vous formez un beau couple,انتو كونتو زواج جميل,intu kawwantu zawaj jamil,انتو كونتو زواج جميل,intu kawwantu zawaj jamil,invariable
 1224,1,Amour et relations,L'amour véritable,الحب الصحيح,al hub al sahih,الحب الصحيح,al hub al sahih,invariable
@@ -37,7 +37,7 @@ id,variante,categorie,francais,arabe_masculin,translit_masculin,arabe_feminin,tr
 1226,1,Amour et relations,La communication est importante,التفاهم مهم,al tafahum muhim,التفاهم مهم,al tafahum muhim,invariable
 1227,1,Amour et relations,On doit se soutenir mutuellement,لازم نساعدو في ما بعض,lazim nil saado fi ma baad,لازم نساعدو في ما بعض,lazim nil saado fi ma baad,invariable
 1228,1,Amour et relations,Je veux fonder une famille avec toi,نضر نكون أسرة معاك,nidor ni kawwin usra maak,نضر نكون أسرة معاكي,nidor ni kawwin usra maaki,destinataire h/f
-1229,1,Amour et relations,Combien d'enfants veux-tu,تضر كم عيال,tidor kam iyal,تضري كم عيال,tidori kam iyal,destinataire h/f
+1229,1,Amour et relations,Combien d'enfants veux-tu,تدور كم عيال,tidor kam iyal,تضري كم عيال,tidori kam iyal,destinataire h/f
 1230,1,Amour et relations,Tu es le partenaire de ma vie,انتي شريقة حياتي,inti shiraga hayati,انتي شريقة حياتي,inti shiraga hayati,destinataire femme
 1231,1,Amour et relations,Tu es la partenaire de ma vie,انت شريك حياتي,inta shirak hayati,انت شريك حياتي,inta shirak hayati,destinataire homme
 1232,1,Amour et relations,Chaque jour avec toi est un cadeau,كل يوم معاك دا هدية,kulu yom maak da hadiya,كل يوم معاكي دا هدية,kulu yom maaki da hadiya,destinataire h/f
