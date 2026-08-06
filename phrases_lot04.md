@@ -1,6 +1,6 @@
 id,variante,categorie,anglais,arabe_litteraire,francais,arabe_tchadien_masculin,translit_masculin,arabe_tchadien_feminin,translit_feminin,note
 151,1,Emotions et sensations,I am happy,أنا سعيد,Je suis content,أنا فرحان,ana farhân,أنا فرحانة,ana farhâne,
-152,1,Emotions et sensations,I am sad,أنا حزين,Je suis triste,أنا حزين,ana hazîn,أنا حزينة,ana hazîne,
+152,1,Emotions et sensations,I am sad,أنا حزين,Je suis triste,أنا حزين,ana haznan,أنا حزينة,ana haznane,
 153,1,Emotions et sensations,I am angry,أنا غاضب,Je suis en colère,أنا زعلان,ana za'lân,أنا زعلانة,ana za'lâne,
 154,1,Emotions et sensations,I am scared,أنا خائف,J'ai peur,أنا خايف,ana khâyif,أنا خايفة,ana khâyfa,
 155,1,Emotions et sensations,I am surprised,أنا متفاجئ,Je suis surpris,أنا مندهش,ana mindahish,أنا مندهشة,ana mindahisha,
@@ -15,7 +15,7 @@ id,variante,categorie,anglais,arabe_litteraire,francais,arabe_tchadien_masculin,
 164,1,Emotions et sensations,I am well,أنا بخير,Je vais bien,أنا كويس,ana kuwayyis,أنا كويسة,ana kuwayyisa,
 165,1,Emotions et sensations,I love you,أحبك,Je t'aime,أنا بحبك,ana bahibbak,أنا بحبك,ana bahibbik,destinataire h: bahibbak / f: bahibbik
 166,1,Emotions et sensations,I am proud of you,أنا فخور بك,Je suis fier de toi,أنا فخور بيك,ana fakhûr bîk,أنا فخورة بيك,ana fakhûra bîk,destinataire h: bîk / f: bîki
-167,1,Emotions et sensations,I am bored,أنا زهقان,Je m'ennuie,أنا زهقان,ana zahgân,أنا زهقانة,ana zahgâne,
+167,1,Emotions et sensations,I am bored,أنا زهقان,Je m'ennuie,أنا زهقان,ana zahjân,أنا زهقانة,ana zahjâne,
 168,1,Emotions et sensations,I am stressed,أنا متوتر,Je suis stressé,أنا متوتر,ana mutawattir,أنا متوترة,ana mutawattira,
 169,1,Emotions et sensations,I trust you,أنا أثق بك,J'ai confiance en toi,عندي ثقة فيك,'indi thiga fîk,عندي ثقة فيكي,'indi thiga fîki,destinataire h: fîk / f: fîki
 170,1,Emotions et sensations,I am sorry,أنا آسف,Je suis désolé,آسف,âsif,آسفة,âsfa,
