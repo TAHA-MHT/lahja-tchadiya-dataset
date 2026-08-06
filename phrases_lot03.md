@@ -6,10 +6,10 @@ id,variante,categorie,anglais,arabe_litteraire,francais,arabe_tchadien_masculin,
 102,2,Travail et metiers,I am looking for work,أبحث عن عمل,Je cherche du travail,أنا قاعد نفتش شغالة,ana gaid nifattich chaghala,أنا قاعدة نفتش شغالة,ana gaade nifattich chaghala,
 104,1,Travail et metiers,My colleague,زميلي,Mon collègue,زميلي,zamîli,زميلتي,zamîlti,
 104,2,Travail et metiers,My colleague,زميلي,Mon collègue,رفيقي,rafigi,رفيقتي,rafigti,
-105,1,Travail et metiers,I am tired,أنا متعب,Je suis fatigué,أنا تعبان من الشغل,ana ta'bân min ash-shughul,أنا تعبانة من الشغل,ana ta'bâne min ash-shughul,
+105,1,Travail et metiers,I am tired,أنا متعب,Je suis fatigué,أنا تعبان من الشغل,ana ta'bân min ash-shaghala,أنا تعبانة من الشغل,ana ta'bâne min ash-shughul,
 105,2,Travail et metiers,I am tired,أنا متعب,Je suis fatigué,أنا عيّت,ana iyit,أنا عيّت,ana iyit,invariable
 105,3,Travail et metiers,I am tired,أنا متعب,Je suis fatigué,أنا عيان,ana ayyan,أنا عيانة,ana ayyana,
-106,1,Travail et metiers,The teacher,الأستاذ,Le professeur,الأستاذ,el ustâz,الأستاذة,el ustâza,
+106,1,Travail et metiers,The teacher,الأستاذ,Le professeur,الأستاذ,al ustâz,الأستاذة,al ustâza,
 106,2,Travail et metiers,The teacher,الأستاذ,Le professeur,المدرّس,al moudarris,المدرّسة,al moudarrisa,
 107,1,Travail et metiers,The doctor,الطبيب,Le médecin,الدكتور,al-doktôr,الدكتورة,al-doktôra,
 107,2,Travail et metiers,The doctor,الطبيب,Le médecin,الدكتور,al dictor,الدكتورة,al dictora,
@@ -62,7 +62,7 @@ id,variante,categorie,anglais,arabe_litteraire,francais,arabe_tchadien_masculin,
 127,2,Argent et commerce,Lend me money,أقرضني مالاً,Prête-moi de l'argent,داينّي قروش,dayyinni gourous,داينّي قروش,dayyinni gourous,invariable
 128,1,Argent et commerce,I will pay you back,سأردّ لك المال,Je te rembourserai,أنا أرد ليك,âna aradd lêk,أنا أرد ليكي,âna aradd lêki,destinataire h/f
 128,2,Argent et commerce,I will pay you back,سأردّ لك المال,Je te rembourserai,نكفّيك,ni kaffik,نكفّيكي,ni kaffiki,destinataire h/f
-129,1,Argent et commerce,The price,السعر,Le prix,السعر,es-si'r,السعر,es-si'r,invariable
+129,1,Argent et commerce,The price,السعر,Le prix,السعر,al-sii'r,السعر,al-sii'r,invariable
 129,2,Argent et commerce,The price,السعر,Le prix,الثمن,al taman,الثمن,al taman,invariable
 130,1,Argent et commerce,The bank,البنك,La banque,البنك,el bank,البنك,el bank,invariable
 130,2,Argent et commerce,The bank,البنك,La banque,المصرف,al masraf,المصرف,al masraf,invariable
@@ -70,9 +70,9 @@ id,variante,categorie,anglais,arabe_litteraire,francais,arabe_tchadien_masculin,
 131,2,Argent et commerce,I owe money (loan),عندي دين حق قروش,Je dois de l'argent (emprunt),عندي دين حق قروش,indi den hana gourous,عندي دين حق قروش,indi den hana gourous,invariable
 132,1,Argent et commerce,I saved money,ادّخرت مالاً,J'ai économisé de l'argent,جمعت فلوس,jama't flûs,جمعت فلوس,jama't flûs,invariable
 132,2,Argent et commerce,I saved money,ادّخرت مالاً,J'ai économisé de l'argent,دمّعت قروش,dammet gourous,دمّعت قروش,dammet gourous,invariable
-133,1,Argent et commerce,The market is far,السوق بعيد,Le marché est loin,السوق بعيد,es-sûg ba'îd,السوق بعيد,es-sûg ba'îd,invariable
-134,1,Argent et commerce,The market is close,السوق قريب,Le marché est proche,السوق قريب,es-sûg garîb,السوق قريب,es-sûg garîb,invariable
-135,1,Argent et commerce,Sell it to me cheaper,بعني هذا أرخص,Vends-moi ça moins cher,بيعني دا أرخص,bî'ni da arkhas,بيعني دا أرخص,bî'ni da arkhas,invariable
+133,1,Argent et commerce,The market is far,السوق بعيد,Le marché est loin,السوق بعيد,as-sûg ba'îd,السوق بعيد,as-sûg ba'îd,invariable
+134,1,Argent et commerce,The market is close,السوق قريب,Le marché est proche,السوق قريب,as-sûg garîb,السوق قريب,as-sûg garîb,invariable
+135,1,Argent et commerce,Sell it to me cheaper,بعني هذا أرخص,Vends-moi ça moins cher,بيعني دا أرخص,bîa ley be arkhas taman,بيعني دا أرخص,bîi ley be arkhas taman ,invariable
 135,2,Argent et commerce,Sell it to me cheaper,بعني هذا أرخص,Vends-moi ça moins cher,انطيني بثمن رخيص,antini be taman rakhis,انطيني بثمن رخيص,antini be taman rakhis,invariable
 135,3,Argent et commerce,Sell it to me cheaper,بعني هذا أرخص,Vends-moi ça moins cher,انطيني بثمن بوتي,antini be taman bouti,انطيني بثمن بوتي,antini be taman bouti,invariable
 136,1,Argent et commerce,This is the final price,هذا السعر النهائي,C'est le prix final,دا آخر سعر,da âkhir si'r,دا آخر سعر,da âkhir si'r,invariable
@@ -80,22 +80,22 @@ id,variante,categorie,anglais,arabe_litteraire,francais,arabe_tchadien_masculin,
 137,1,Argent et commerce,I will come back tomorrow,سأعود غداً,Je reviendrai demain,أرجع باكر,arja' bâkir,أرجع باكر,arja' bâkir,invariable
 137,2,Argent et commerce,I will come back tomorrow,سأعود غداً,Je reviendrai demain,ناجي باكر,naji am bakir,ناجي باكر,naji am bakir,invariable
 137,3,Argent et commerce,I will come back tomorrow,سأعود غداً,Je reviendrai demain,ناجي بكرة,naji boukra,ناجي بكرة,naji boukra,invariable
-138,1,Argent et commerce,The seller,البائع,Le vendeur,البياع,el bayyâ',البياعة,el bayyâ'a,
-139,1,Argent et commerce,The buyer,المشتري,L'acheteur,المشتري,el mushtari,المشترية,el mushtariya,
+138,1,Argent et commerce,The seller,البائع,Le vendeur,البياع,al bayyâ',البياعة,el bayyâ'a,
+139,1,Argent et commerce,The buyer,المشتري,L'acheteur,المشتري,al mushtari,المشترية,el mushtariya,
 140,1,Argent et commerce,Let's negotiate the price,لنتفاوض على السعر,Négocions le prix,خلينا نتفاوض على السعر,khallîna nitfâwad 'ala es-si'r,خلينا نتفاوض على السعر,khallîna nitfâwad 'ala es-si'r,invariable
 140,2,Argent et commerce,Let's negotiate the price,لنتفاوض على السعر,Négocions le prix,نتمنّو,ni tamunu,نتمنّو,ni tamunu,invariable
 141,1,Divers quotidien,Close the door,أغلق الباب,Ferme la porte,سكّر الباب,sakkir el bâb,سكّري الباب,sakkiri el bâb,destinataire h/f
 141,2,Divers quotidien,Close the door,أغلق الباب,Ferme la porte,سدّ الباب,siddal bab,سدّي الباب,siddil bab,destinataire h/f
-142,1,Divers quotidien,Open the window,افتح النافذة,Ouvre la fenêtre,فتح الشباك,fatah esh-shibbâk,فتحي الشباك,fathi esh-shibbâk,destinataire h/f
+142,1,Divers quotidien,Open the window,افتح النافذة,Ouvre la fenêtre,فتح الشباك,fatah ash-shubbâk,فتحي الشباك,fathi esh-shibbâk,destinataire h/f
 142,2,Divers quotidien,Open the window,افتح النافذة,Ouvre la fenêtre,افتح الشباك,aftahal shubbak,افتحي الشباك,aftehel shubbak,destinataire h/f
-143,1,Divers quotidien,Turn on the light,شغّل النور,Allume la lumière,ولّع النور,walli' en-nûr,وللعي النور,walla'i en-nûr,destinataire h/f
+143,1,Divers quotidien,Turn on the light,شغّل النور,Allume la lumière,ولّع النور,walli' al-nûr,وللعي النور,walla'i al-nûr,destinataire h/f
 143,2,Divers quotidien,Turn on the light,شغّل النور,Allume la lumière,افتح الضو,aftahal day,افتحي الضو,aftehel day,destinataire h/f
 143,3,Divers quotidien,Turn on the light,شغّل النور,Allume la lumière,ولّي الضو,walli al day,وللي الضو,walli il day,destinataire h/f
-144,1,Divers quotidien,Turn off the light,أطفئ النور,Éteins la lumière,طفي النور,taffi en-nûr,طفي النور,taffi en-nûr,invariable
+144,1,Divers quotidien,Turn off the light,أطفئ النور,Éteins la lumière,طفي النور,taffi al-nûr,طفي النور,taffi al-nûr,invariable
 144,2,Divers quotidien,Turn off the light,أطفئ النور,Éteins la lumière,اقتل الضو,aktul al day,اقتلي الضو,aktulil day,destinataire h/f
 145,1,Divers quotidien,Put away your things,رتّب أغراضك,Range tes affaires,رتّب حاجتك,rattib hâjtak,رتّبي حاجتك,rattibi hâjtik,destinataire h/f
 145,2,Divers quotidien,Put away your things,رتّب أغراضك,Range tes affaires,عدّل خمامك,addil khumamak,عدّلي خمامك,addili khumamki,destinataire h/f
-146,1,Divers quotidien,Clean the house,نظّف البيت,Nettoie la maison,نضّف البيت,naddif el bêt,نضّفي البيت,naddifi el bêt,destinataire h/f
+146,1,Divers quotidien,Clean the house,نظّف البيت,Nettoie la maison,نضّف البيت,naddif al bêt,نضّفي البيت,naddifi el bêt,destinataire h/f
 146,2,Divers quotidien,Clean the house,نظّف البيت,Nettoie la maison,نضّف البيت,naddifil bet,نضّف البيت,naddifal bet,destinataire h/f
 147,1,Divers quotidien,Wash your hands,اغسل يديك,Lave tes mains,اغسل ايدينك,ighsil idênak,اغسلي ايدينك,ighsili idênik,destinataire h/f
 147,2,Divers quotidien,Wash your hands,اغسل يديك,Lave tes mains,خصّل ايدينك,khassil idenak,خصّلي ايدينك,khassili idenki,destinataire h/f
