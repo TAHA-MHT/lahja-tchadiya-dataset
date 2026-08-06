@@ -1,9 +1,9 @@
 id,variante,categorie,anglais,arabe_litteraire,francais,arabe_tchadien_masculin,translit_masculin,arabe_tchadien_feminin,translit_feminin,note
-101,1,Travail et metiers,I work,أنا أعمل,Je travaille,أنا قاعد نخدم,ana gaid nakhadim,أنا قاعدة نخدم,ana gaada nakhadim,
-101,2,Travail et metiers,I work,أنا أعمل,Je travaille,أنا قاعد نشتغل,ana gaid nichtaghil,أنا قاعدة نشتغل,ana gaada nichtaghil,
+101,1,Travail et metiers,I work,أنا أعمل,Je travaille,أنا قاعد نخدم,ana gaid nakhadim,أنا قاعدة نخدم,ana gaade nakhadim,
+101,2,Travail et metiers,I work,أنا أعمل,Je travaille,أنا قاعد نشتغل,ana gaid nichtaghil,أنا قاعدة نشتغل,ana gaade nichtaghil,
 101,3,Travail et metiers,I work,أنا أعمل,Je travaille,قاعد نخدم,gaid nakhadim,قاعدة نخدم,gaada nakhadim,
-102,1,Travail et metiers,I am looking for work,أبحث عن عمل,Je cherche du travail,أنا قاعد نفتش خدمة,ana gaid nifattich khidimé,أنا قاعدة نفتش خدمة,ana gaada nifattich khidimé,
-102,2,Travail et metiers,I am looking for work,أبحث عن عمل,Je cherche du travail,أنا قاعد نفتش شغالة,ana gaid nifattich chaghala,أنا قاعدة نفتش شغالة,ana gaada nifattich chaghala,
+102,1,Travail et metiers,I am looking for work,أبحث عن عمل,Je cherche du travail,أنا قاعد نفتش خدمة,ana gaid nifattich khidimé,أنا قاعدة نفتش خدمة,ana gaade nifattich khidimé,
+102,2,Travail et metiers,I am looking for work,أبحث عن عمل,Je cherche du travail,أنا قاعد نفتش شغالة,ana gaid nifattich chaghala,أنا قاعدة نفتش شغالة,ana gaade nifattich chaghala,
 104,1,Travail et metiers,My colleague,زميلي,Mon collègue,زميلي,zamîli,زميلتي,zamîlti,
 104,2,Travail et metiers,My colleague,زميلي,Mon collègue,رفيقي,rafigi,رفيقتي,rafigti,
 105,1,Travail et metiers,I am tired,أنا متعب,Je suis fatigué,أنا تعبان من الشغل,ana ta'bân min ash-shughul,أنا تعبانة من الشغل,ana ta'bâne min ash-shughul,
@@ -11,12 +11,12 @@ id,variante,categorie,anglais,arabe_litteraire,francais,arabe_tchadien_masculin,
 105,3,Travail et metiers,I am tired,أنا متعب,Je suis fatigué,أنا عيان,ana ayyan,أنا عيانة,ana ayyana,
 106,1,Travail et metiers,The teacher,الأستاذ,Le professeur,الأستاذ,el ustâz,الأستاذة,el ustâza,
 106,2,Travail et metiers,The teacher,الأستاذ,Le professeur,المدرّس,al moudarris,المدرّسة,al moudarrisa,
-107,1,Travail et metiers,The doctor,الطبيب,Le médecin,الدكتور,ed-doktôr,الدكتورة,ed-doktôra,
+107,1,Travail et metiers,The doctor,الطبيب,Le médecin,الدكتور,al-doktôr,الدكتورة,al-doktôra,
 107,2,Travail et metiers,The doctor,الطبيب,Le médecin,الدكتور,al dictor,الدكتورة,al dictora,
 107,3,Travail et metiers,The doctor,الطبيب,Le médecin,الطبيب,al tabib,الطبيبة,al tabiba,
-108,1,Travail et metiers,The farmer,الفلاح,L'agriculteur,الفلاح,el fallâh,الفلاحة,el fallâha,
-109,1,Travail et metiers,The merchant,التاجر,Le commerçant,التاجر,et-tâjir,التاجرة,et-tâjra,
-110,1,Travail et metiers,The driver,السائق,Le chauffeur,السواق,es-sawwâg,السواقة,es-sawwâga,
+108,1,Travail et metiers,The farmer,الفلاح,L'agriculteur,الفلاح,el fallâh,الفلاحة,al fallâha,
+109,1,Travail et metiers,The merchant,التاجر,Le commerçant,التاجر,al-tâjir,التاجرة,al-tâjire,
+110,1,Travail et metiers,The driver,السائق,Le chauffeur,السواق,al-sawwâg,السواقة,al-sawwâga,
 111,1,Travail et metiers,I am going to the office,أنا ذاهب إلى المكتب,Je vais au bureau,أنا قاعد نمشي المكتب,ana gaid namshi el maktab,أنا قاعدة نمشي المكتب,ana gaada namshi el maktab,
 111,2,Travail et metiers,I am going to the office,أنا ذاهب إلى المكتب,Je vais au bureau,ماشي المكتب,machil maktab,ماشية المكتب,machiél maktab,
 111,3,Travail et metiers,I am going to the office,أنا ذاهب إلى المكتب,Je vais au bureau,أنا ماشي المكتب,ana machil maktab,أنا ماشية المكتب,ana machie al maktab,
@@ -29,13 +29,13 @@ id,variante,categorie,anglais,arabe_litteraire,francais,arabe_tchadien_masculin,
 115,1,Travail et metiers,The salary,الراتب,Le salaire,المرتب,el murattab,المرتب,el murattab,invariable
 115,2,Travail et metiers,The salary,الراتب,Le salaire,الراتب,al ratib,الراتب,al ratib,invariable
 116,1,Travail et metiers,I got paid,تقاضيت راتبي,J'ai été payé,كفوني,kaffoni,كفوني,kaffoni,invariable
-117,1,Travail et metiers,I have no job,ليس لدي عمل,Je n'ai pas de travail,ما عندي شغل,mâ 'indi shughul,ما عندي شغل,mâ 'indi shughul,invariable
+117,1,Travail et metiers,I have no job,ليس لدي عمل,Je n'ai pas de travail,ما عندي شغل,mâ 'indi shaghala,ما عندي شغل,mâ 'indi shughul,invariable
 117,2,Travail et metiers,I have no job,ليس لدي عمل,Je n'ai pas de travail,ما عندي أمل,ma indi amal,ما عندي أمل,ma indi amal,invariable
 117,3,Travail et metiers,I have no job,ليس لدي عمل,Je n'ai pas de travail,ما عندي خدمة,ma indi khidimé,ما عندي خدمة,ma indi khidimé,invariable
-118,1,Travail et metiers,It is a good job,إنه عمل جيد,C'est un bon travail,دا شغل زين,da shughul zên,دا شغل زين,da shughul zên,invariable
+118,1,Travail et metiers,It is a good job,إنه عمل جيد,C'est un bon travail,دا شغل زين,di shaghala zêne,دا شغل زين,da shughul zên,invariable
 118,2,Travail et metiers,It is a good job,إنه عمل جيد,C'est un bon travail,دي خدمة عادلة,di khidimé adilé,دي خدمة عادلة,di khidimé adilé,invariable
 118,3,Travail et metiers,It is a good job,إنه عمل جيد,C'est un bon travail,دي خدمة سمحة,di khidimé samha,دي خدمة سمحة,di khidimé samha,invariable
-119,1,Travail et metiers,It is a difficult job,إنه عمل صعب,C'est un travail difficile,دا شغل صعب,da shughul sa'ab,دا شغل صعب,da shughul sa'ab,invariable
+119,1,Travail et metiers,It is a difficult job,إنه عمل صعب,C'est un travail difficile,دا شغل صعب,di shaghala sa'aba,دا شغل صعب,da shughul sa'ab,invariable
 119,2,Travail et metiers,It is a difficult job,إنه عمل صعب,C'est un travail difficile,دي خدمة قاسية,di khidimé gasié,دي خدمة قاسية,di khidimé gasié,invariable
 119,3,Travail et metiers,It is a difficult job,إنه عمل صعب,C'est un travail difficile,دي خدمة صعبة,di khidimé saaba,دي خدمة صعبة,di khidimé saaba,invariable
 120,1,Travail et metiers,I want to rest,أريد أن أرتاح,Je veux me reposer,عايز أرتاح,'âyiz artâh,عايزة أرتاح,'âyza artâh,
