@@ -1,51 +1,71 @@
-id,variante,categorie,francais,arabe_masculin,translit_masculin,arabe_feminin,translit_feminin,note
-941,1,Securite personnelle et urgences,Au secours,ساعدوني,saiduni,ساعدوني,saiduni,invariable
-942,1,Securite personnelle et urgences,Appelle la police,نادو الشرطة,nadu al shurta,نادو الشرطة,nadu al shurta,invariable
-943,1,Securite personnelle et urgences,Il y a un voleur,في سرّاق,fi sarrak,في سرّاق,fi sarrak,invariable
-944,1,Securite personnelle et urgences,On m'a volé,سرقوني,sirgoni,سرقوني,sirgoni,invariable
-945,1,Securite personnelle et urgences,J'ai perdu mon sac,شنطتي وضّرت,shantiti waddarat,شنطتي وضّرت,shantiti waddarat,invariable
-946,1,Securite personnelle et urgences,Il y a eu un accident,حصل حادث,hasal hadis,حصل حادث,hasal hadis,invariable
-947,1,Securite personnelle et urgences,Quelqu'un est blessé,في زول انجرح,fi zol injarah,في زول انجرح,fi zol injarah,invariable
-948,1,Securite personnelle et urgences,Appelle une ambulance,نادو الإسعاف,nadu al is af,نادو الإسعاف,nadu al is af,invariable
-949,1,Securite personnelle et urgences,Emmène-le à l'hôpital,ودوه في اللبطان,wadu fil laptan,ودوها في اللبطان,waduwa fil laptan,destinataire h/f
-950,1,Securite personnelle et urgences,C'est une urgence,دا ضروري,da daruri,دا ضروري,da daruri,invariable
-951,1,Securite personnelle et urgences,Reste calme,اقعد ساكت,agod sakit,اقعدي ساكت,agodi sakit,destinataire h/f
-952,1,Securite personnelle et urgences,Ne panique pas,ما تخاف,ma takhaf,ما تخافي,ma takhafe,destinataire h/f
-953,1,Securite personnelle et urgences,Éloigne-toi du danger,اقعد بعيد من الخطورة,agod baid min al khutura,اقعدي بعيد من الخطورة,agodi baid min al khutura,destinataire h/f
-954,1,Securite personnelle et urgences,Il y a un incendie,في حريقة,fi harige,في حريقة,fi harige,invariable
-955,1,Securite personnelle et urgences,Sortez tous,امرقو كلكم,amurgu kuluku,امرقو كلكم,amurgu kuluku,invariable
-956,1,Securite personnelle et urgences,Ferme la porte à clé,قفّل الباب,gaffil al bab,قفّلي الباب,gaffili al bab,destinataire h/f
-957,1,Securite personnelle et urgences,Ne réponds pas aux inconnus,ما ترد للناس ما معروفين,ma ti rud le nas ma marufin,ما تردي للناس ما معروفين,ma ruddi le nas ma marufin,destinataire h/f
-958,1,Securite personnelle et urgences,Vérifie qui c'est avant d'ouvrir,أكّد ياتو في الباب قبل تفتح,akkid yatu fil bab gabul aftaha,أكّدي ياتو في الباب قبل تفتحي,akkidi yatu fil bab gabul aftahe,destinataire h/f
-959,1,Securite personnelle et urgences,Cet endroit n'est pas sûr,المكان دا ما عنده أمان,al bakan da ma inda aman,المكان دا ما عنده أمان,al bakan da ma inda aman,invariable
-960,1,Securite personnelle et urgences,Reste avec moi,اقعد معاي,agod mai,اقعدي معاي,agodi mai,destinataire h/f
-961,1,Securite personnelle et urgences,Ne t'éloigne pas,ما تمشي بعيد,ma tamshi baid,ما تمشي بعيد,ma tamshi baid,destinataire h/f
-962,1,Securite personnelle et urgences,J'ai perdu mon chemin,الدرب وضّر لي,al daib waddar ley,الدرب وضّر لي,al daib waddar ley,invariable
-963,1,Securite personnelle et urgences,Je suis perdu,أنا وضّرت,ana waddar,أنا وضّرت,ana waddar,invariable
-964,1,Securite personnelle et urgences,Peux-tu m'indiquer le chemin,تقدر توصفني الدرب,tagdar ti wassifni al darib,تقدري توصفيني الدرب,tagdare ti wassifni al darib,destinataire h/f
-965,1,Securite personnelle et urgences,J'ai besoin d'aide immédiatement,نضر مساعدة ضروري,nidor musaada daruri,نضر مساعدة ضروري,nidor musaada daruri,invariable
-966,1,Securite personnelle et urgences,Quelqu'un a disparu,في زول وضّر,fi zol waddar,في زول وضّر,fi zol waddar,invariable
-967,1,Securite personnelle et urgences,Préviens la famille,خبّر الأهل,khabbir al ahal,خبّري الأهل,khabbiri al ahal,destinataire h/f
-968,1,Securite personnelle et urgences,Reste près de la lumière,اقعد جنب النور,agod gaib lel nur,اقعدي جنب النور,agodi gaib lel nur,destinataire h/f
-969,1,Securite personnelle et urgences,Ne sors pas seul la nuit,ما تمرق وحيدك بالليل,ma tamrug wehedak be fil lel,ما تمرقي وحيدكي بالليل,ma tamurgi wehedki be fil lel,destinataire h/f
-970,1,Securite personnelle et urgences,Fais attention aux étrangers,انتبه من الأجانب,intabi min al ajanib,انتبهي من الأجانب,intabii min al ajanib,destinataire h/f
-971,1,Securite personnelle et urgences,Protège les enfants,احفظ العيال,ahfaz al iyal,احفظي العيال,ahfaze al iyal,destinataire h/f
-972,1,Securite personnelle et urgences,Surveille bien tes affaires,انتبه لخمامك,intabih le khumamak,انتبهي لخمامكي,intabihi le khumamki,destinataire h/f
-973,1,Securite personnelle et urgences,Ne montre pas ton argent en public,ما توصف قروسك قدام الناس,ma ti wassif gursak giddam al nas,ما توصفي قروسكي قدام الناس,ma ti wassifi guruski giddam nas,destinataire h/f
-974,1,Securite personnelle et urgences,Il y a une bagarre,في دواس,fi duwas,في دواس,fi duwas,invariable
-975,1,Securite personnelle et urgences,Séparez-les,فرقوهم,farugum,فرقوهم,farugum,invariable
-976,1,Securite personnelle et urgences,Calmez-vous tous les deux,اصبرو اتنينكم,asburu tinenitku,اصبرو اتنينكم,asburu tinenitku,invariable
-977,1,Securite personnelle et urgences,Ce n'est pas la solution,دا ما حلال,da ma halal,دا ما حلال,da ma halal,invariable
-978,1,Securite personnelle et urgences,Parlons calmement,نحاجو براحتنا,na haju be rahitna,نحاجو براحتنا,na haju be rahitna,invariable
-979,1,Securite personnelle et urgences,Personne n'est blessé c'est bien,مافي زول انجرح دا عدل,mafi zol injarah da adil,مافي زول انجرح دا عدل,mafi zol injarah da adil,invariable
-980,1,Securite personnelle et urgences,La situation est sous contrôle,الوضع تحت السيطرة,al wadih tihit al saytara,الوضع تحت السيطرة,al wadih tihit al saytara,invariable
-981,1,Securite personnelle et urgences,Merci d'être venu m'aider,شكراً على مساعدة حقك,shukran le musaada hintak,شكراً على مساعدة حقكي,shukran le musaada hintiki,destinataire h/f
-982,1,Securite personnelle et urgences,Tu m'as sauvé,انت أنقذتني,inta anfaztini,انتي أنقذتني,inti anfaztini,destinataire h/f
-983,1,Securite personnelle et urgences,Je te dois beaucoup,أنا مديون ليك كتير,ana madyun lek katir,أنا مديون ليك كتير,ana madyun lek katir,invariable
-984,1,Securite personnelle et urgences,Prends soin de toi après ça,احفظ لنفسك بعد دا,hafiz le nafsak bad da,احفظي لنفسكي بعد دا,hafiz le nafsiki bad da,destinataire h/f
-985,1,Securite personnelle et urgences,Repose-toi maintenant,هسه كدا انجمّ,hassa keda injamma,هسه كدا انجمّي,hassa keda anjamme,destinataire h/f
-986,1,Securite personnelle et urgences,Tout danger est passé,الخطر فات خلاص,al khatar fat khalas,الخطر فات خلاص,al khatar fat khalas,invariable
-987,1,Securite personnelle et urgences,On est en sécurité,قاعدين في أمان,gadin fi amni,قاعدين في أمان,gadin fi amni,invariable
-988,1,Securite personnelle et urgences,Rentrons à la maison,نمشو البيت,namshu al bet,نمشو البيت,namshu al bet,invariable
-989,1,Securite personnelle et urgences,Verrouille bien la porte ce soir,سكّر الباب تمام,sakkir al bab tamam,سكّرا الباب تمام,sakkira al bab tamam,destinataire h/f
-990,1,Securite personnelle et urgences,Dieu merci plus de peur,الحمد لله خوف مافي خلاص,al hamdoulillah khof mafi khalas,الحمد لله خوف مافي خلاص,al hamdoulillah khof mafi khalas,invariable
+id,variante,categorie,anglais,arabe_litteraire,francais,arabe_tchadien_masculin,translit_masculin,arabe_tchadien_feminin,translit_feminin,note
+421,1,Questions courantes,What is this,ما هذا,Qu'est-ce que c'est,شنو دا,shinu da,شنو دا,shinu da,invariable
+421,2,Questions courantes,What is this,ما هذا,Qu'est-ce que c'est,دا دا شنو,da da chunu,دا دا شنو,da da chunu,invariable
+422,1,Questions courantes,Why,لماذا,Pourquoi,لالا,lala,لالا,lala,invariable - arabe tchadien pur
+423,1,Questions courantes,How does it work,كيف يعمل هذا,Comment ça marche,كيف ماشي,kêf mâshi,كيف ماشي,kêf mâshi,invariable
+423,2,Questions courantes,How does it work,كيف يعمل هذا,Comment ça marche,كيف ماشي الحال,kef mashil hal,كيف ماشي الحال,kef mashil hal,invariable
+424,1,Questions courantes,When does it happen,متى يحدث هذا,Quand est-ce que ça arrive,متى بحصل,mata bahasal,متى بحصل,mata bahasal,invariable
+424,2,Questions courantes,When does it happen,متى يحدث هذا,Quand est-ce que ça arrive,متى بتحصل,mata bi tahasal,متى بتحصل,mata bi tahasal,invariable
+425,1,Questions courantes,Where are you going,إلى أين أنت ذاهب,Où vas-tu,ماشي وين,mashi wen,ماشية وين,mashie wen,destinataire h/f
+426,1,Questions courantes,Where do you come from,من أين أتيت,D'où viens-tu,جاي من وين,jayi min wen,جاية من وين,jayie min wen,destinataire h/f
+427,1,Questions courantes,Who are you with,مع من أنت,Avec qui es-tu,قاعد مع ياتو,gaid maa yatu,قاعدة مع ياتو,gaada maa yatu,destinataire h/f
+428,1,Questions courantes,What are you doing,ماذا تفعل,Qu'est-ce que tu fais,قاعد تسوي شنو,gaid ti sey chunu,قاعدة تسوي شنو,gaide ti sey shunu,destinataire h/f
+429,1,Questions courantes,What do you want,ماذا تريد,Qu'est-ce que tu veux,تضر شنو,tidor shunu,تضري شنو,tidori shunu,destinataire h/f
+430,1,Questions courantes,What is wrong,ما الخطب,Qu'est-ce qui ne va pas,مالك,malak,مالكي,malki,destinataire h/f
+431,1,Questions courantes,Can you hear me,هل تسمعني,Est-ce que tu m'entends,قاعد تسمعني,gaid tasmaani,قاعدة تسمعيني,gaide tasmeeni,destinataire h/f
+432,1,Questions courantes,Do you understand,هل تفهم,Est-ce que tu comprends,هل قاعد تفهم,hal gaid tafham,هل قاعدة تفهمي,hal gaade tafhamé,destinataire h/f
+433,1,Questions courantes,Are you sure,هل أنت متأكد,Es-tu sûr,انت مؤكد,inta muakkid,انتي مؤكدة,inti muakkide,destinataire h/f
+433,2,Questions courantes,Are you sure,هل أنت متأكد,Es-tu sûr,انت متأكد,inta mutaakkid,انتي متأكدة,inti mutaakkida,destinataire h/f
+434,1,Questions courantes,Are you ready,هل أنت جاهز,Es-tu prêt,انت جاهز,inta jahiz,انتي جاهزة,inti jahizè,destinataire h/f
+435,1,Questions courantes,Have you eaten,هل أكلت,As-tu mangé,انت اكل,inta akal,انتي اكلتي,inti akalti,destinataire h/f
+436,1,Questions courantes,Have you slept,هل نمت,As-tu dormi,انت نام,inta num,انتي نمتي,inti numti,destinataire h/f
+437,1,Questions courantes,Have you finished,هل انتهيت,As-tu fini,انت خلص,inta khallas,انتي خلصتي,inti khallasti,destinataire h/f
+437,2,Questions courantes,Have you finished,هل انتهيت,As-tu fini,انت كمل,inta kammal,انتي كملتي,inti kammalti,destinataire h/f
+438,1,Questions courantes,Can you help me,هل يمكنك مساعدتي,Peux-tu m'aider,تقدر تساعدني,tagdar ti saidni,تقدري تساعدني,tagdare ti saidni,destinataire h/f
+439,1,Questions courantes,Do you want to come with me,هل تريد المجيء معي,Veux-tu venir avec moi,تضر تجي معايا,tidor taji mai,تضري تجي معايا,tidori taji mai,destinataire h/f
+440,1,Questions courantes,Do you know where it is,هل تعرف أين هو,Sais-tu où c'est,تعرف وين دا,taarrif wen al,تعرفي وين دا,taarfi wen al,destinataire h/f
+441,1,Reponses courantes,Yes,نعم,Oui,أيوه,aywa,أيوه,aywa,invariable
+441,2,Reponses courantes,Yes,نعم,Oui,أيه,ayye,أيه,ayye,invariable
+441,3,Reponses courantes,Yes,نعم,Oui,نعم,naam,نعم,naam,invariable
+442,1,Reponses courantes,No,لا,Non,لا,la,لا,la,invariable
+443,1,Reponses courantes,Maybe,ربما,Peut-être,يمكن,yumkin,يمكن,yumkin,invariable
+443,2,Reponses courantes,Maybe,ربما,Peut-être,ممكن,mumkin,ممكن,mumkin,invariable
+444,1,Reponses courantes,I don't know,لا أعرف,Je ne sais pas,ما عارف,ma aarif,ما عارفة,ma aarifa,
+444,2,Reponses courantes,I don't know,لا أعرف,Je ne sais pas,ما نعرف,ma naarfa,ما نعرف,ma naarfa,invariable
+445,1,Reponses courantes,I agree,أوافق,Je suis d'accord,أنا موافق,ana muwafig,أنا موافقة,ana muwafige,
+445,2,Reponses courantes,I agree,أوافق,Je suis d'accord,أنا خاصة,ana khassat,أنا خاصة,ana khassat,invariable
+445,3,Reponses courantes,I agree,أوافق,Je suis d'accord,أنا مخصد,ana mukhassid,أنا مخصدة,ana mukhasside,
+446,1,Reponses courantes,I don't agree,لا أوافق,Je ne suis pas d'accord,أنا ما موافق,ana ma muwafig,أنا ما موافقة,ana ma muwafige,
+446,2,Reponses courantes,I don't agree,لا أوافق,Je ne suis pas d'accord,أنا ما خاصة,ana ma khassat,أنا ما خاصة,ana ma khassat,invariable
+446,3,Reponses courantes,I don't agree,لا أوافق,Je ne suis pas d'accord,أنا ما مخصد,ana ma mukhassid,أنا ما مخصدة,ana ma mukhasside,
+447,1,Reponses courantes,Of course,بالطبع,Bien sûr,فعلاً,fiilan,فعلاً,fiilan,invariable
+447,2,Reponses courantes,Of course,بالطبع,Bien sûr,طبعاً,tabaan,طبعاً,tabaan,invariable
+448,1,Reponses courantes,Never,أبداً,Jamais,أبداً,abadan,أبداً,abadan,invariable
+449,1,Reponses courantes,Always,دائماً,Toujours,دايماً,daiman,دايماً,daiman,invariable
+450,1,Reponses courantes,Sometimes,أحياناً,Parfois,أحياناً,ahyanan,أحياناً,ahyanan,invariable
+450,2,Reponses courantes,Sometimes,أحياناً,Parfois,مرات,marrat,مرات,marrat,invariable
+451,1,Reponses courantes,It is true,هذا صحيح,C'est vrai,صحيح,sahih,صحيح,sahih,invariable
+452,1,Reponses courantes,It is not true,هذا غير صحيح,Ce n'est pas vrai,ما صحيح,ma sahih,ما صحيح,ma sahih,invariable
+453,1,Reponses courantes,I think so,أعتقد ذلك,Je pense que oui,نفكر إنو نعم,nifakkir innu naam,نفكر إنو نعم,nifakkir innu naam,invariable
+454,1,Reponses courantes,I don't think so,لا أعتقد ذلك,Je pense que non,نفكر إنو لا,nifakkir innu la,نفكر إنو لا,nifakkir innu la,invariable
+455,1,Reponses courantes,Exactly,بالضبط,Exactement,بالظبط,bezzabt,بالظبط,bezzabt,invariable
+455,2,Reponses courantes,Exactly,بالضبط,Exactement,أيوه,aywaa,أيوه,aywaa,invariable
+456,1,Reponses courantes,Not at all,أبداً,Pas du tout,أبداً,abadan,أبداً,abadan,invariable
+456,2,Reponses courantes,Not at all,أبداً,Pas du tout,لالا,lala,لالا,lala,invariable
+457,1,Reponses courantes,A little,قليلاً,Un peu,شية,shiya,شية,shiya,invariable
+457,2,Reponses courantes,A little,قليلاً,Un peu,شويه,shuwayya,شويه,shuwayya,invariable
+458,1,Reponses courantes,A lot,كثيراً,Beaucoup,كتير,katir,كتير,katir,invariable
+459,1,Reponses courantes,Enough,يكفي,Assez,يكفي,yakfi,يكفي,yakfi,invariable
+460,1,Reponses courantes,Almost,تقريباً,Presque,تقريباً,taghriban,تقريباً,taghriban,invariable
+461,1,Temps et frequence,Now,الآن,Maintenant,هسع,hassa,هسع,hassa,invariable
+462,1,Temps et frequence,Later,لاحقاً,Plus tard,بعدين,baaden,بعدين,baaden,invariable
+463,1,Temps et frequence,Yesterday,أمس,Hier,أمس,amis,أمس,amis,invariable
+464,1,Temps et frequence,Today,اليوم,Aujourd'hui,اليوم,alyom,اليوم,alyom,invariable
+465,1,Temps et frequence,Tomorrow,غداً,Demain,امبكر,ambakir,امبكر,ambakir,invariable
+465,2,Temps et frequence,Tomorrow,غداً,Demain,باكر,bakir,باكر,bakir,invariable
+465,3,Temps et frequence,Tomorrow,غداً,Demain,بكرة,bukra,بكرة,bukra,invariable
+466,1,Temps et frequence,This week,هذا الأسبوع,Cette semaine,في الأسبوع دا,fil usbu da,في الأسبوع دا,fil usbu da,invariable
+467,1,Temps et frequence,Next month,الشهر القادم,Le mois prochain,الشهر الجاي,al shahar al jayi,الشهر الجاي,al shahar al jayi,invariable
+468,1,Temps et frequence,Last year,العام الماضي,L'année dernière,سنة الفاتت,sana al fatat,سنة الفاتت,sana al fatat,invariable
+469,1,Temps et frequence,Soon,قريباً,Bientôt,قريب,garib,قريب,garib,invariable
+470,1,Temps et frequence,A long time ago,منذ زمن طويل,Il y a longtemps,زمان,zaman,زمان,zaman,invariable
