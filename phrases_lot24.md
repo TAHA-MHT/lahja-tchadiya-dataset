@@ -19,10 +19,10 @@ id,variante,categorie,francais,arabe_masculin,translit_masculin,arabe_feminin,tr
 1208,1,Amour et relations,Je veux me réconcilier avec toi,نضر نصالحو,nidor ni saluhu,نضر نصالحو,nidor ni saluhu,invariable
 1209,1,Amour et relations,Je suis fidèle,أنا مخلص,ana mukhlis,أنا مخلصة,ana mukhlisa,
 1210,1,Amour et relations,Ne me trompe pas,ما تخونيني,ma tukhunini,ما تخونيني,ma tukhunini,invariable
-1211,1,Amour et relations,Je te fais confiance totalement,إيدي فوقك ثقة,idi fogak sikha,إيدي فوقكي ثقة,idi fogiki sikha,destinataire h/f
+1211,1,Amour et relations,Je te fais confiance totalement,إندي فوقك ثقة,indi fogak sikha,إندي فوقكي ثقة,indi fogiki sikha,destinataire h/f
 1212,1,Amour et relations,Notre relation est solide,علاقتنا قوية,alakhatna gawiya,علاقتنا قوية,alakhatna gawiya,invariable
 1213,1,Amour et relations,On se dispute parfois mais on s'aime,نتشاكلو مرات لكن نتراضاو,nit shakolo marat lakin nil rayado,نتشاكلو مرات لكن نتراضاو,nit shakolo marat lakin nil rayado,invariable
-1214,1,Amour et relations,Je veux t'épouser,نضر ناخدكي,nidor naakhudki,نضر ناخدك,nidor naakhudak,destinataire h/f
+1214,1,Amour et relations,Je veux t'épouser,ندور ناخدكي,nidor naakhudki,ندور ناخدك,nidor naakhudak,destinataire h/f
 1215,1,Amour et relations,Demande ma main à mes parents,امشي قدم بكان أهلي,amshi gaddim bakan ahli,امشي قدمي بكان أهلي,amshi gaddim bakan ahli,destinataire h/f
 1216,1,Amour et relations,La dot,الصداق,al sadakh,الصداق,al sadakh,invariable
 1217,1,Amour et relations,Les fiançailles,الخطاب,al khitab,الخطاب,al khitab,invariable
