@@ -10,12 +10,12 @@ id,variante,categorie,anglais,arabe_litteraire,francais,arabe_tchadien_masculin,
 59,1,Famille,My friend,صديقي,Mon ami,صاحبي,sahibi,صاحبي,sahibi,invariable
 59,2,Famille,My friend,صديقي,Mon ami,رفيقي,rafigi,رفيقي,rafigi,invariable
 60,1,Famille,My family,عائلتي,Ma famille,أهلي,ahali,أهلي,ahali,invariable
-61,1,Nourriture et boisson,I want to eat,أريد أن آكل,J'ai envie de manger,نضر ناكل,nidor nakul,نضر ناكل,nidor nakul,invariable
+61,1,Nourriture et boisson,I want to eat,أريد أن آكل,J'ai envie de manger,ندور ناكل,nidor nakul,ندور ناكل,nidor nakul,invariable
 62,1,Nourriture et boisson,Give me water,أعطني ماءً,Donne-moi de l'eau,انطيني مويا,antini almi,انطيني مويا,antini almi,invariable
 63,1,Nourriture et boisson,It is delicious,هذا لذيذ,C'est délicieux,حلو,halu,حلو,halu,invariable
 64,1,Nourriture et boisson,It is too spicy,هذا حار جداً,C'est trop épicé,فيه شطة كتير,inda shatte katir,فيه شطة كتير,inda shatte katir,invariable
 65,1,Nourriture et boisson,I want tea,أريد شاياً,Je veux du thé,داير شاهي,dayir shahi,دايرة شاهي,dayra shahi,
-65,2,Nourriture et boisson,I want tea,أريد شاياً,Je veux du thé,نضر شاهي,nidor shahih,نضر شاهي,nidor shahih,invariable
+65,2,Nourriture et boisson,I want tea,أريد شاياً,Je veux du thé,ندور شاهي,nidor shahih,ندور شاهي,nidor shahih,invariable
 66,1,Nourriture et boisson,Rice,الأرز,Le riz,الريز,al ris,الريز,al ris,invariable
 67,1,Nourriture et boisson,Meat,اللحم,La viande,اللحم,al laham,اللحم,al laham,invariable
 68,1,Nourriture et boisson,Bread,الخبز,Le pain,مافّة,mappa,مافّة,mappa,invariable
@@ -33,7 +33,7 @@ id,variante,categorie,anglais,arabe_litteraire,francais,arabe_tchadien_masculin,
 77,1,Corps et sante,My hands,يداي,Mes mains,ايديني,ideni,ايديني,ideni,invariable
 78,1,Corps et sante,My feet,قدماي,Mes pieds,رجليني,rijileni,رجليني,rijileni,invariable
 79,1,Corps et sante,I am tired,أنا متعب,Je suis fatigué,أنا عيّت,ana iyit,أنا عيّت,ana iyit,invariable
-80,1,Corps et sante,I need to sleep,أحتاج إلى النوم,J'ai besoin de dormir,نضر ننام,nidor ni num,نضر ننام,nidor ni num,invariable
+80,1,Corps et sante,I need to sleep,أحتاج إلى النوم,J'ai besoin de dormir,ندور ننام,nidor ni num,ندور ننام,nidor ni num,invariable
 81,1,Nature et temps,It is hot,الجو حار,Il fait chaud,الوقت حامية,al watah hamiye,الوقت حامية,al watah hamiye,invariable
 82,1,Nature et temps,It is cold,الجو بارد,Il fait froid,الوقت باردة,al watah barde,الوقت باردة,al watah barde,invariable
 83,1,Nature et temps,It is raining,إنها تمطر,Il pleut,المويا قاعدة تصب,almi gaid bi sub,المويا قاعدة تصب,almi gaid bi sub,invariable
