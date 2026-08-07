@@ -57,6 +57,6 @@ id,variante,categorie,anglais,arabe_litteraire,francais,arabe_tchadien_masculin,
 755,1,Formalites administratives,The police station,مركز الشرطة,Le commissariat,مركز الشرطة,markaz al shurta,مركز الشرطة,markaz al shurta,invariable
 756,1,Formalites administratives,I need a certificate,أحتاج شهادة,J'ai besoin d'une attestation,ندور شهادة,nidor shahada,ندور شهادة,nidor shahada,invariable
 757,1,Formalites administratives,This document is important,هذه الوثيقة مهمة,Ce document est important,الورقة دي مهمة,al waraga di muhimma,الورقة دي مهمة,al waraga di muhimma,invariable
-758,1,Formalites administratives,Make a copy,انسخ هذا,Fais une copie,صوّرا,sawira,صوّري,sawwiriya,destinataire h/f
+758,1,Formalites administratives,Make a copy,انسخ هذا,Fais une copie,صوّرا,sawwira,صوّري,sawwiri,destinataire h/f
 759,1,Formalites administratives,The stamp,الطابع,Le timbre,الطابع,al tabi,الطابع,al tabi,invariable
 760,1,Formalites administratives,The seal,الختم,Le cachet,الختم,al khatm,الختم,al khatm,invariable
