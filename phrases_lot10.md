@@ -1,9 +1,9 @@
 id,variante,categorie,anglais,arabe_litteraire,francais,arabe_tchadien_masculin,translit_masculin,arabe_tchadien_feminin,translit_feminin,note
-471,1,Conversations complexes,I would like to ask you something,أود أن أسألك شيئاً,Je voudrais te demander quelque chose,نضر نسألك شي واحد,nidor nasalak shay wahid,نضر نسألكي شي واحد,nidor nasalaki shay wahid,destinataire h/f
-471,2,Conversations complexes,I would like to ask you something,أود أن أسألك شيئاً,Je voudrais te demander quelque chose,نضر نسألك شغل واحد,nidor nasalak shokhol wahid,نضر نسألكي شغل واحد,nidor nasalaki shokhol wahid,destinataire h/f
+471,1,Conversations complexes,I would like to ask you something,أود أن أسألك شيئاً,Je voudrais te demander quelque chose,ندور نسألك شي واحد,nidor nasalak shay wahid,ندور نسألكي شي واحد,nidor nasalaki shay wahid,destinataire h/f
+471,2,Conversations complexes,I would like to ask you something,أود أن أسألك شيئاً,Je voudrais te demander quelque chose,ندور نسألك شغل واحد,nidor nasalak shokhol wahid,ندور نسألكي شغل واحد,nidor nasalaki shokhol wahid,destinataire h/f
 472,1,Conversations complexes,Can you do me a favor,هل يمكنك أن تسدي لي معروفاً,Peux-tu me rendre un service,تقدر تساعدني,tagdar ti saidni,تقدري تساعدني,tagdare ti saidni,destinataire h/f
-473,1,Conversations complexes,I need your advice,أحتاج نصيحتك,J'ai besoin de ton conseil,نضر وسيطك,nidor wasitak,نضر وسيطكي,nidor wasitki,destinataire h/f
-473,2,Conversations complexes,I need your advice,أحتاج نصيحتك,J'ai besoin de ton conseil,نضر وصية حنتك,nidor wasiyya hintak,نضر وصية حنتكي,nidor wasiyya hintiki,destinataire h/f
+473,1,Conversations complexes,I need your advice,أحتاج نصيحتك,J'ai besoin de ton conseil,ندور وسيطك,nidor wasitak,ندور وسيطكي,nidor wasitki,destinataire h/f
+473,2,Conversations complexes,I need your advice,أحتاج نصيحتك,J'ai besoin de ton conseil,ندور وصية حنتك,nidor wasiyya hintak,ندور وصية حنتكي,nidor wasiyya hintiki,destinataire h/f
 474,1,Conversations complexes,What do you think of this idea,ما رأيك في هذه الفكرة,Que penses-tu de cette idée,فكرك شنو,fikrak shunu,فكركي شنو,fikirki shunu,destinataire h/f
 474,2,Conversations complexes,What do you think of this idea,ما رأيك في هذه الفكرة,Que penses-tu de cette idée,رأيك شنو,rayak shunu,رأيكي شنو,rayki shunu,destinataire h/f
 475,1,Conversations complexes,I don't know what to do,لا أعرف ماذا أفعل,Je ne sais pas quoi faire,ما نعرف نسوي شنو,ma naarfa ni sey shunu,ما نعرف نسوي شنو,ma naarfa ni sey shunu,invariable
