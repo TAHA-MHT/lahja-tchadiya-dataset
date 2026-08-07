@@ -38,7 +38,7 @@ id,variante,categorie,anglais,arabe_litteraire,francais,arabe_tchadien_masculin,
 557,1,Domotique - Television,Mute the sound,اقطع الصوت,Coupe le son,اقطع الصوت,akta al sot,اقطعي الصوت,aktae al sot,destinataire h/f
 558,1,Domotique - Television,Unmute the sound,أعد الصوت,Remets le son,رجّع الصوت,gabbil al sot,رجّعي الصوت,gabbili al sot,destinataire h/f
 559,1,Domotique - Television,Look for a movie,ابحث عن فيلم,Cherche un film,فتّش فيلم,fatich filim,فتّشي فيلم,fattichi filim,destinataire h/f
-560,1,Domotique - Television,Turn off everything, I am going to sleep,أطفئ كل شيء سأنام,Éteins tout, je vais dormir,اقتل كله شي نضر ننام,aktul kulu chay nidor ni num,اقتلي كله شي نضر ننام,aktuli kulu chay ni dor ni num,destinataire h/f
+560,1,Domotique - Television,Turn off everything, I am going to sleep,أطفئ كل شيء سأنام,Éteins tout, je vais dormir,اقتل كله شي ندور ننام,aktul kulu chay nidor ni num,اقتلي كله شي ندور ننام,aktuli kulu chay nidor ni num,destinataire h/f
 561,1,Domotique - Autres appareils,Turn on the radio,شغّل الراديو,Allume la radio,شخّل الراديو,shakhil al radio,شخّلي الراديو,shakhili al radio,destinataire h/f
 562,1,Domotique - Autres appareils,Turn off the radio,أطفئ الراديو,Éteins la radio,اقتل الراديو,aktul al radio,اقتلي الراديو,aktuli al radio,destinataire h/f
 563,1,Domotique - Autres appareils,Charge my phone,اشحن هاتفي,Charge mon téléphone,أشحن تليفوني,ashhan telefoni,أشحني تليفوني,ashhane telefoni,destinataire h/f
