@@ -1,71 +1,61 @@
 id,variante,categorie,anglais,arabe_litteraire,francais,arabe_tchadien_masculin,translit_masculin,arabe_tchadien_feminin,translit_feminin,note
-421,1,Questions courantes,What is this,ما هذا,Qu'est-ce que c'est,شنو دا,shinu da,شنو دا,shinu da,invariable
-421,2,Questions courantes,What is this,ما هذا,Qu'est-ce que c'est,دا دا شنو,da da chunu,دا دا شنو,da da chunu,invariable
-422,1,Questions courantes,Why,لماذا,Pourquoi,لالا,lala,لالا,lala,invariable - arabe tchadien pur
-423,1,Questions courantes,How does it work,كيف يعمل هذا,Comment ça marche,كيف ماشي,kêf mâshi,كيف ماشي,kêf mâshi,invariable
-423,2,Questions courantes,How does it work,كيف يعمل هذا,Comment ça marche,كيف ماشي الحال,kef mashil hal,كيف ماشي الحال,kef mashil hal,invariable
-424,1,Questions courantes,When does it happen,متى يحدث هذا,Quand est-ce que ça arrive,متى بحصل,mata bahasal,متى بحصل,mata bahasal,invariable
-424,2,Questions courantes,When does it happen,متى يحدث هذا,Quand est-ce que ça arrive,متى بتحصل,mata bi tahasal,متى بتحصل,mata bi tahasal,invariable
-425,1,Questions courantes,Where are you going,إلى أين أنت ذاهب,Où vas-tu,ماشي وين,mashi wen,ماشية وين,mashie wen,destinataire h/f
-426,1,Questions courantes,Where do you come from,من أين أتيت,D'où viens-tu,جاي من وين,jayi min wen,جاية من وين,jayie min wen,destinataire h/f
-427,1,Questions courantes,Who are you with,مع من أنت,Avec qui es-tu,قاعد مع ياتو,gaid maa yatu,قاعدة مع ياتو,gaada maa yatu,destinataire h/f
-428,1,Questions courantes,What are you doing,ماذا تفعل,Qu'est-ce que tu fais,قاعد تسوي شنو,gaid ti sey chunu,قاعدة تسوي شنو,gaide ti sey shunu,destinataire h/f
-429,1,Questions courantes,What do you want,ماذا تريد,Qu'est-ce que tu veux,تضر شنو,tidor shunu,تضري شنو,tidori shunu,destinataire h/f
-430,1,Questions courantes,What is wrong,ما الخطب,Qu'est-ce qui ne va pas,مالك,malak,مالكي,malki,destinataire h/f
-431,1,Questions courantes,Can you hear me,هل تسمعني,Est-ce que tu m'entends,قاعد تسمعني,gaid tasmaani,قاعدة تسمعيني,gaide tasmeeni,destinataire h/f
-432,1,Questions courantes,Do you understand,هل تفهم,Est-ce que tu comprends,هل قاعد تفهم,hal gaid tafham,هل قاعدة تفهمي,hal gaade tafhamé,destinataire h/f
-433,1,Questions courantes,Are you sure,هل أنت متأكد,Es-tu sûr,انت مؤكد,inta muakkid,انتي مؤكدة,inti muakkide,destinataire h/f
-433,2,Questions courantes,Are you sure,هل أنت متأكد,Es-tu sûr,انت متأكد,inta mutaakkid,انتي متأكدة,inti mutaakkida,destinataire h/f
-434,1,Questions courantes,Are you ready,هل أنت جاهز,Es-tu prêt,انت جاهز,inta jahiz,انتي جاهزة,inti jahizè,destinataire h/f
-435,1,Questions courantes,Have you eaten,هل أكلت,As-tu mangé,انت اكل,inta akal,انتي اكلتي,inti akalti,destinataire h/f
-436,1,Questions courantes,Have you slept,هل نمت,As-tu dormi,انت نام,inta num,انتي نمتي,inti numti,destinataire h/f
-437,1,Questions courantes,Have you finished,هل انتهيت,As-tu fini,انت خلص,inta khallas,انتي خلصتي,inti khallasti,destinataire h/f
-437,2,Questions courantes,Have you finished,هل انتهيت,As-tu fini,انت كمل,inta kammal,انتي كملتي,inti kammalti,destinataire h/f
-438,1,Questions courantes,Can you help me,هل يمكنك مساعدتي,Peux-tu m'aider,تقدر تساعدني,tagdar ti saidni,تقدري تساعدني,tagdare ti saidni,destinataire h/f
-439,1,Questions courantes,Do you want to come with me,هل تريد المجيء معي,Veux-tu venir avec moi,تضر تجي معايا,tidor taji mai,تضري تجي معايا,tidori taji mai,destinataire h/f
-440,1,Questions courantes,Do you know where it is,هل تعرف أين هو,Sais-tu où c'est,تعرف وين دا,taarrif wen al,تعرفي وين دا,taarfi wen al,destinataire h/f
-441,1,Reponses courantes,Yes,نعم,Oui,أيوه,aywa,أيوه,aywa,invariable
-441,2,Reponses courantes,Yes,نعم,Oui,أيه,ayye,أيه,ayye,invariable
-441,3,Reponses courantes,Yes,نعم,Oui,نعم,naam,نعم,naam,invariable
-442,1,Reponses courantes,No,لا,Non,لا,la,لا,la,invariable
-443,1,Reponses courantes,Maybe,ربما,Peut-être,يمكن,yumkin,يمكن,yumkin,invariable
-443,2,Reponses courantes,Maybe,ربما,Peut-être,ممكن,mumkin,ممكن,mumkin,invariable
-444,1,Reponses courantes,I don't know,لا أعرف,Je ne sais pas,ما عارف,ma aarif,ما عارفة,ma aarifa,
-444,2,Reponses courantes,I don't know,لا أعرف,Je ne sais pas,ما نعرف,ma naarfa,ما نعرف,ma naarfa,invariable
-445,1,Reponses courantes,I agree,أوافق,Je suis d'accord,أنا موافق,ana muwafig,أنا موافقة,ana muwafige,
-445,2,Reponses courantes,I agree,أوافق,Je suis d'accord,أنا خاصة,ana khassat,أنا خاصة,ana khassat,invariable
-445,3,Reponses courantes,I agree,أوافق,Je suis d'accord,أنا مخصد,ana mukhassid,أنا مخصدة,ana mukhasside,
-446,1,Reponses courantes,I don't agree,لا أوافق,Je ne suis pas d'accord,أنا ما موافق,ana ma muwafig,أنا ما موافقة,ana ma muwafige,
-446,2,Reponses courantes,I don't agree,لا أوافق,Je ne suis pas d'accord,أنا ما خاصة,ana ma khassat,أنا ما خاصة,ana ma khassat,invariable
-446,3,Reponses courantes,I don't agree,لا أوافق,Je ne suis pas d'accord,أنا ما مخصد,ana ma mukhassid,أنا ما مخصدة,ana ma mukhasside,
-447,1,Reponses courantes,Of course,بالطبع,Bien sûr,فعلاً,fiilan,فعلاً,fiilan,invariable
-447,2,Reponses courantes,Of course,بالطبع,Bien sûr,طبعاً,tabaan,طبعاً,tabaan,invariable
-448,1,Reponses courantes,Never,أبداً,Jamais,أبداً,abadan,أبداً,abadan,invariable
-449,1,Reponses courantes,Always,دائماً,Toujours,دايماً,daiman,دايماً,daiman,invariable
-450,1,Reponses courantes,Sometimes,أحياناً,Parfois,أحياناً,ahyanan,أحياناً,ahyanan,invariable
-450,2,Reponses courantes,Sometimes,أحياناً,Parfois,مرات,marrat,مرات,marrat,invariable
-451,1,Reponses courantes,It is true,هذا صحيح,C'est vrai,صحيح,sahih,صحيح,sahih,invariable
-452,1,Reponses courantes,It is not true,هذا غير صحيح,Ce n'est pas vrai,ما صحيح,ma sahih,ما صحيح,ma sahih,invariable
-453,1,Reponses courantes,I think so,أعتقد ذلك,Je pense que oui,نفكر إنو نعم,nifakkir innu naam,نفكر إنو نعم,nifakkir innu naam,invariable
-454,1,Reponses courantes,I don't think so,لا أعتقد ذلك,Je pense que non,نفكر إنو لا,nifakkir innu la,نفكر إنو لا,nifakkir innu la,invariable
-455,1,Reponses courantes,Exactly,بالضبط,Exactement,بالظبط,bezzabt,بالظبط,bezzabt,invariable
-455,2,Reponses courantes,Exactly,بالضبط,Exactement,أيوه,aywaa,أيوه,aywaa,invariable
-456,1,Reponses courantes,Not at all,أبداً,Pas du tout,أبداً,abadan,أبداً,abadan,invariable
-456,2,Reponses courantes,Not at all,أبداً,Pas du tout,لالا,lala,لالا,lala,invariable
-457,1,Reponses courantes,A little,قليلاً,Un peu,شية,shiya,شية,shiya,invariable
-457,2,Reponses courantes,A little,قليلاً,Un peu,شويه,shuwayya,شويه,shuwayya,invariable
-458,1,Reponses courantes,A lot,كثيراً,Beaucoup,كتير,katir,كتير,katir,invariable
-459,1,Reponses courantes,Enough,يكفي,Assez,يكفي,yakfi,يكفي,yakfi,invariable
-460,1,Reponses courantes,Almost,تقريباً,Presque,تقريباً,taghriban,تقريباً,taghriban,invariable
-461,1,Temps et frequence,Now,الآن,Maintenant,هسع,hassa,هسع,hassa,invariable
-462,1,Temps et frequence,Later,لاحقاً,Plus tard,بعدين,baaden,بعدين,baaden,invariable
-463,1,Temps et frequence,Yesterday,أمس,Hier,أمس,amis,أمس,amis,invariable
-464,1,Temps et frequence,Today,اليوم,Aujourd'hui,اليوم,alyom,اليوم,alyom,invariable
-465,1,Temps et frequence,Tomorrow,غداً,Demain,امبكر,ambakir,امبكر,ambakir,invariable
-465,2,Temps et frequence,Tomorrow,غداً,Demain,باكر,bakir,باكر,bakir,invariable
-465,3,Temps et frequence,Tomorrow,غداً,Demain,بكرة,bukra,بكرة,bukra,invariable
-466,1,Temps et frequence,This week,هذا الأسبوع,Cette semaine,في الأسبوع دا,fil usbu da,في الأسبوع دا,fil usbu da,invariable
-467,1,Temps et frequence,Next month,الشهر القادم,Le mois prochain,الشهر الجاي,al shahar al jayi,الشهر الجاي,al shahar al jayi,invariable
-468,1,Temps et frequence,Last year,العام الماضي,L'année dernière,سنة الفاتت,sana al fatat,سنة الفاتت,sana al fatat,invariable
-469,1,Temps et frequence,Soon,قريباً,Bientôt,قريب,garib,قريب,garib,invariable
-470,1,Temps et frequence,A long time ago,منذ زمن طويل,Il y a longtemps,زمان,zaman,زمان,zaman,invariable
+1001,1,Metiers et professions,The fisherman,الصياد,Le pêcheur,الصياد,al sayyad,الصياد,al sayyad,invariable
+1002,1,Metiers et professions,The shepherd,الراعي,Le berger,الراعي,al rai,الراعي,al rai,invariable
+1003,1,Metiers et professions,The blacksmith,الحداد,Le forgeron,الحداد,al haddad,الحداد,al haddad,invariable
+1004,1,Metiers et professions,The painter,الرسام,Le peintre,الدهّان,al dahhan,الدهّان,al dahhan,invariable
+1005,1,Metiers et professions,The artist,الفنان,L'artiste,الفنان,al fannan,الفنان,al fannan,invariable
+1006,1,Metiers et professions,The musician,الموسيقي,Le musicien,الموزيقي,al muzikhi,الموزيقي,al muzikhi,invariable
+1007,1,Metiers et professions,The writer,الكاتب,L'écrivain,الكاتب,al katib,الكاتب,al katib,invariable
+1008,1,Metiers et professions,The journalist,الصحفي,Le journaliste,الصحفي,al sahafi,الصحفي,al sahafi,invariable
+1009,1,Metiers et professions,The lawyer,المحامي,L'avocat,المحامي,al muhami,المحامي,al muhami,invariable
+1010,1,Metiers et professions,The judge,القاضي,Le juge,القاضي,al qadi,القاضي,al qadi,invariable
+1011,1,Metiers et professions,The engineer,المهندس,L'ingénieur,مهندس,muhandis,مهندس,muhandis,invariable
+1012,1,Metiers et professions,The nurse,الممرض,L'infirmier,الممرض,al mumarrid,الممرض,al mumarrid,invariable
+1013,1,Metiers et professions,The midwife,القابلة,La sage-femme,القابلة,al qabila,القابلة,al qabila,invariable
+1014,1,Metiers et professions,The pharmacist,الصيدلي,Le pharmacien,الصيدلي,al saydali,الصيدلي,al saydali,invariable
+1015,1,Metiers et professions,The accountant,المحاسب,Le comptable,المحاسب,al muhasib,المحاسب,al muhasib,invariable
+1016,1,Metiers et professions,The secretary,السكرتير,Le secrétaire,السكرتير,al sikirter,السكرتير,al sikirter,invariable
+1017,1,Metiers et professions,The guard,الحارس,Le gardien,الحارس,al haris,الحارس,al haris,invariable
+1018,1,Metiers et professions,The security guard,حارس الأمن,Le vigile,رجل الأمن,rajil al amni,رجل الأمن,rajil al amni,invariable
+1019,1,Metiers et professions,The mason is building a house,البناء يبني بيتاً,Le maçon construit une maison,البنّاء قاعد يبني بيت,al bannaa gaid babni bet,البنّاءة قاعدة تبني بيت,al bannaa gaade tabni bet,
+1020,1,Metiers et professions,The mechanic repairs cars,الميكانيكي يصلح السيارات,Le mécanicien répare les voitures,الميكانيكي بيصلح السيارات,al makaniki bi salih al sayyarat,الميكانيكية بتصلح السيارات,makanika bitsalih al sayyarat,
+1021,1,Metiers et professions,The tailor sews clothes,الخياط يخيط الملابس,Le tailleur coud les vêtements,الخياط بيخيط الخلقان,al khayyat bikhayyit al khulgan,الخياطة بتخيط الملابس,khayyata bitikhayyit al malabis,
+1022,1,Metiers et professions,I am looking for a plumber,أبحث عن سباك,Je cherche un plombier,قاعد ندر نفتش سبّاك,gaid nidor ni fatish sayyak,قاعدة ندر نفتش سبّاك,gaade nidor ni fatish sayyak,
+1023,1,Metiers et professions,How much does a teacher earn,كم يكسب المعلم,Combien gagne un enseignant,المعلم بكفو كم,al muallim bi kafu kam,المعلمة بكفوا كم,muallima bi kafua kam,
+1024,1,Metiers et professions,It is a respected profession,هذه مهنة محترمة,C'est un métier respecté,دي مهنة محترمة,di mihna muhtarima,دي مهنة محترمة,di mihna muhtarima,invariable
+1025,1,Metiers et professions,It is a difficult profession,هذه مهنة صعبة,C'est un métier difficile,دي خدمة قاسية,di khidme gasie,دي خدمة صعبة,di khidme saaba,
+1026,1,Metiers et professions,I would like to become a doctor,أود أن أصبح طبيباً,J'aimerais devenir médecin,ندر نبقى دكتور,nidor nabga dictor,ندر نبقى دكتورة,nidor nabga dictora,
+1027,1,Metiers et professions,What profession do you want to do,أي مهنة تريد أن تمارس,Quel métier veux-tu faire,تدر تخدم شنو,tidor takhadim shunu,تدري تخدمي شنو,tidori takhadimi shunu,destinataire h/f
+1028,1,Metiers et professions,I am proud of my profession,أنا فخور بمهنتي,Je suis fier de mon métier,أنا فرحان من خدمتي,ana farhan min khidimti,أنا فرحانة من خدمتي,ana farhana min khidimti,
+1029,1,Metiers et professions,I have a lot of experience,لدي خبرة كبيرة,J'ai beaucoup d'expérience,عندي خبرة كبيرة,indi khibra kabire,عندي خبرة كبيرة,indi khibra kabire,invariable
+1030,1,Metiers et professions,I am a beginner in this profession,أنا مبتدئ في هذه المهنة,Je suis débutant dans ce métier,أنا دهبي جديد في المهنة دي,ana dahabi jadid fi al mihna di,أنا دهبي جديدة في المهنة دي,ana dahabi jadide fi al mihna di,
+1031,1,Metiers et professions,I learned this profession with my father,تعلمت هذه المهنة مع أبي,J'ai appris ce métier avec mon père,علمت المهنة دي من أبوي,allamtal mihna di min aboui,علمت المهنة دي من أبوي,allamtal mihna di min aboui,invariable
+1032,1,Metiers et professions,This profession feeds my family,هذه المهنة تعيل عائلتي,Ce métier nourrit ma famille,المهنة دي تعيّش أهلي,al mihna di ti ayyish ahli,المهنة دي تعيّش أهلي,al mihna di ti ayyish ahli,invariable
+1033,1,Metiers et professions,I am looking for an apprentice,أبحث عن متدرب,Je cherche un apprenti,قاعد نفتش متدرب,gaid ni fattish mutadarrib,قاعدة نفتش متدرب,gaade ni fattish mutadarrib,
+1034,1,Metiers et professions,I train young people,أدرّب الشباب,Je forme des jeunes,قاعد نعلم الشباب,gaid na allim al shabab,قاعدة نعلم الشباب,gaade na allim al shabab,
+1035,1,Metiers et professions,Manual work is important,العمل اليدوي مهم,Le travail manuel est important,الخدمة بالإيد دي مهمة,al khidime al be iden di muhima,الخدمة بالإيد دي مهمة,al khidime al be iden di muhima,invariable
+1036,1,Metiers et professions,Every profession has value,لكل مهنة قيمتها,Chaque métier a sa valeur,أي مهنة عندها قيمة,ayyi minha inda khima,أي مهنة عندها قيمة,ayyi minha inda khima,invariable
+1037,1,Metiers et professions,There is no shameful job,ليس هناك مهنة معيبة,Il n'y a pas de sot métier,مافي مهنة ما عندها قيمة,mafi minha ma indi khima,مافي مهنة ما عندها قيمة,mafi minha ma indi khima,invariable
+1038,1,Metiers et professions,I am my own boss,أنا رئيس نفسي,Je suis mon propre patron,أنا بس رئيس لنفسي,ana bes rais le nafsi,أنا بس رئيسة لنفسي,ana bes raisa le nafsi,
+1039,1,Metiers et professions,I created my company,أسست شركتي,J'ai créé mon entreprise,أنا بس أسست الشركة حنتي,ana bes assas al sharika hinti,أنا بس أسست الشركة حنتي,ana bes assas al sharika hinti,invariable
+1040,1,Metiers et professions,I want to grow my business,أريد تطوير نشاطي,Je veux développer mon activité,ندر نوسّع شغلتي,nidor ni wassii shakhalti,ندر نوسّع شغلتي,nidor ni wassii shakhalti,invariable
+1041,1,Sante et hopital,I have a fever,لدي حمى,J'ai de la fièvre,أنا مرض,ana marud,أنا مرضة,ana maruda,
+1042,1,Sante et hopital,I have a cough,لدي سعال,J'ai la toux,عندي زكمة,indi zukhma,عندي زكمة,indi zukhma,invariable
+1043,1,Sante et hopital,My nose is running,أنفي يسيل,J'ai le nez qui coule,مناخيري عنده نخامة,mankhari inda nukhama,مناخيري عنده نخامة,mankhari inda nukhama,invariable
+1044,1,Sante et hopital,I have a sore throat,لدي التهاب في الحلق,J'ai mal à la gorge,حلقومي بوجعني,halgumi bojani,حلقومي بوجعني,halgumi bojani,invariable
+1045,1,Sante et hopital,I am vomiting,أتقيأ,J'ai des vomissements,قاعد نقدف,gaid ni gaddif,قاعدة نقدف,gaade ni gaddif,
+1046,1,Sante et hopital,I have diarrhea,لدي إسهال,J'ai la diarrhée,بطوني تمشيني,batuni ti mashini,بطوني تمشيني,batuni ti mashini,invariable
+1047,1,Sante et hopital,I feel dizzy,أشعر بدوار,J'ai des vertiges,راسي بيدوريني,rasi bi durini,راسي بيدوريني,rasi bi durini,invariable
+1048,1,Sante et hopital,I am bleeding,أنزف,Je saigne,قاعد ننزف,gaid nanzif,قاعدة ننزف,gaade nanzif,
+1049,1,Sante et hopital,I have a wound,لدي جرح,J'ai une blessure,عندي جرحة,indi jarha,عندي جرحة,indi jarha,invariable
+1050,1,Sante et hopital,I have a burn,لدي حرق,J'ai une brûlure,عندي حرقة,indi harga,عندي حرقة,indi harga,invariable
+1051,1,Sante et hopital,I was bitten by a mosquito,لدغتني بعوضة,J'ai été piqué par un moustique,البعوضة أكلتني,bauda akalatni,البعوضة أكلتني,bauda akalatni,invariable
+1052,1,Sante et hopital,I am allergic,أنا حساس,Je suis allergique,عندي حساسة,indi hasasa,عندي حساسة,indi hasasa,invariable
+1053,1,Sante et hopital,I need medication,أحتاج دواءً,J'ai besoin de médicaments,ندر دوا,nidor dawa,ندر دوا,nidor dawa,invariable
+1054,1,Sante et hopital,The pharmacy,الصيدلية,La pharmacie,الصيدلية,al saydaliya,الصيدلية,al saydaliya,invariable
+1055,1,Sante et hopital,The prescription,الوصفة الطبية,L'ordonnance,الوصفة,al wasfa,الوصفة,al wasfa,invariable
+1056,1,Sante et hopital,Take this medication,خذ هذا الدواء,Prends ce médicament,شيل الدوا دا,shil al dawa da,شيلي الدوا دا,shili al dawa da,destinataire h/f
+1057,1,Sante et hopital,Twice a day,مرتين في اليوم,Deux fois par jour,مرتين في اليوم,marra ten fil yom,مرتين في اليوم,marra ten fil yom,invariable
+1058,1,Sante et hopital,Before meals,قبل الأكل,Avant les repas,قبل الأكل,gubbal al akil,قبل الأكل,gubbal al akil,invariable
+1059,1,Sante et hopital,After meals,بعد الأكل,Après les repas,بعد الأكل,bad al akil,بعد الأكل,bad al akil,invariable
+1060,1,Sante et hopital,I am pregnant,أنا حامل,Je suis enceinte,أنا خلبانة,ana khalbane,أنا خلبانة,ana khalbane,invariable
