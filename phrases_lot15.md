@@ -19,7 +19,7 @@ id,variante,categorie,anglais,arabe_litteraire,francais,arabe_tchadien_masculin,
 777,1,Formalites administratives,It is your turn,دورك,C'est à toi,دورك انت,dorak inta,دوركي انتي,dorki inti,destinataire h/f
 778,1,Formalites administratives,The counter,الشباك,Le guichet,الشباك,al shubbak,الشباك,al shubbak,invariable
 779,1,Formalites administratives,The employee is not here,الموظف ليس هنا,L'employé n'est pas là,العامل مافي,al amil mafi,العاملة مافيها,al amila mafia,
-780,1,Formalites administratives,Come back in an hour,عد بعد ساعة,Reviens dans une heure,قبل بعد ساعة,gabbil baid saa,قبلي بعد ساعة,gabbili baid saa,destinataire h/f
+780,1,Formalites administratives,Come back in an hour,عد بعد ساعة,Reviens dans une heure,تعال بعد ساعة,ta'al baad saa,تعالي بعد ساعة,ta'ali baad saa,destinataire h/f
 781,1,Formalites administratives,I have an appointment,لدي موعد,J'ai un rendez-vous,عندي موعد,indi mawid,عندي موعد,indi mawid,invariable
 782,1,Formalites administratives,I am late for my appointment,أنا متأخر عن موعدي,Je suis en retard pour mon rendez-vous,أخّر بالنسبة للموعد,akhar bel nisba lel mawid,أخّر بالنسبة للموعد,akhar bel nisba lel mawid,invariable
 783,1,Formalites administratives,The file is complete,الملف مكتمل,Le dossier est complet,الملف كامل,al malaf kaamil,الملف كامل,al malaf kaamil,invariable
