@@ -1,52 +1,61 @@
-id,variante,categorie,francais,arabe_masculin,translit_masculin,arabe_feminin,translit_feminin,note
-891,1,Sentiments profonds,Je réfléchis beaucoup,قاعد نفكر كتير,gaid ni fakkir katir,قاعدة نفكر كتير,gaade ni fakkir katir,
-892,1,Sentiments profonds,J'ai des soucis,عندي هم,indi ham,عندي هم,indi ham,invariable
-893,1,Sentiments profonds,Je me sens seul,قاعد نحس نفسي وحيدي,gaid ni his nafsi wehedi,قاعدة نحس نفسي وحيدي,gaade ni his nafsi wehedi,
-894,1,Sentiments profonds,J'ai besoin de parler,محتاج للونسة,muhtaj le wanasa,محتاجة للونسة,muhtaja le wanasa,
-895,1,Sentiments profonds,Personne ne me comprend,زول بفهمني مافي,zol bafhamni mafi,زول بفهمني مافي,zol bafhamni mafi,invariable
-896,1,Sentiments profonds,Je me sens mieux maintenant,هايس نفسي أحسن,hayis nafsi ahsan,هايسة نفسي أحسن,hayisa nafsi ahsan,
-897,1,Sentiments profonds,J'ai trouvé la paix,لقيت راحتي,ligit rahiti,لقيت راحتي,ligit rahiti,invariable
-898,1,Sentiments profonds,Je prie pour toi,نادي ليك,nadi lek,نادي ليكي,nadi leki,destinataire h/f
-899,1,Sentiments profonds,Garde espoir,تماسك بالأمل,tamasak bel ammal,تماسكي بالأمل,tamasake bel ammal,destinataire h/f
-900,1,Sentiments profonds,Ne perds pas courage,ما تفقد الشجاعة,ma tafgud al shajaa,ما تفقدي الشجاعة,ma tafgudi al shajaa,destinataire h/f
-901,1,Sentiments profonds,Tu n'es pas seul,ما انت وحيدك,ma inta wehedak,ما انتي وحيدكي,ma inti wehedki,destinataire h/f
-902,1,Sentiments profonds,Je suis là pour toi,أنا قاعد ليك,ana gaid lek,أنا قاعدة ليك,ana gaade lek,destinataire h - locuteur h/f
-902,2,Sentiments profonds,Je suis là pour toi,أنا قاعد ليكي,ana gaid leki,أنا قاعدة ليكي,ana gaade leki,destinataire f - locuteur h/f
-903,1,Sentiments profonds,Raconte-moi ce qui te tracasse,وريني شنو اللي يدايخك,orini chunu al bidayyikhak,وريني شنو اللي يدايخكي,orini chunu al bidayyikhki,destinataire h/f
-904,1,Sentiments profonds,Ça va aller,كل شي بكون خير ان شاء الله,kulu chay bukun kher inshaallah,كل شي بكون خير ان شاء الله,kulu chay bukun kher inshaallah,invariable
-905,1,Sentiments profonds,Prends ton temps,شيل وقتك,shil waktak,شيلي وقتكي,shili wakitki,destinataire h/f
-906,1,Sentiments profonds,Respire profondément,نفّس عدل,naffis adil,نفّسي عدل,naffisi adil,destinataire h/f
-907,1,Sentiments profonds,Calme ton esprit,هدّي بالك,haddi balak,هدّي بالكي,haddi balki,destinataire h/f
-908,1,Sentiments profonds,La vie a des hauts et des bas,الحياة عندها تقلبات,al haya inda takhalubat,الحياة عندها تقلبات,al haya inda takhalubat,invariable
-909,1,Sentiments profonds,Chaque jour est un nouveau départ,كل يوم بداية جديدة,kuli yom bidaya jadide,كل يوم بداية جديدة,kuli yom bidaya jadide,invariable
-910,1,Sentiments profonds,J'apprends de mes erreurs,أنا نتعلم من خطاي,ana naallim min khatai,أنا نتعلم من خطاي,ana naallim min khatai,invariable
-911,1,Sentiments profonds,Je grandis chaque jour,كل نكبر,kuli nakbar,كل نكبر,kuli nakbar,invariable
-912,1,Sentiments profonds,Je crois en moi,أنا عندي ثقة في نفسي,ana indi sikha fi nafsi,أنا عندي ثقة في نفسي,ana indi sikha fi nafsi,invariable
-913,1,Sentiments profonds,Je crois en toi,أنا عندي ثقة فوقك,ana indi sikha fogak,أنا عندي ثقة فوقكي,ana indi sikha fogki,destinataire h/f
-914,1,Sentiments profonds,Tu peux y arriver,تنجح بإذن الله,tanja be izn allah,تنجحي بإذن الله,tanjahe be izn allah,destinataire h/f
-915,1,Sentiments profonds,N'abandonne jamais,ما تستسلم أبداً,ma tistaslam abadan,ما تستسلمي أبداً,ma tistaslam abadan,destinataire h/f
-916,1,Sentiments profonds,Je suis reconnaissant,أنا شاكر,ana shakir,أنا شاكرة,ana shakira,
-917,1,Sentiments profonds,Je remercie Dieu pour ma vie,نشكر الله على حياتي,nashkur allah ala hayati,نشكر الله على حياتي,nashkur allah ala hayati,invariable
-918,1,Sentiments profonds,J'ai beaucoup appris aujourd'hui,اليوم أنا اتعلمت كتير,alyom ana allam katir,اليوم أنا اتعلمت كتير,alyom ana allam katir,invariable
-919,1,Sentiments profonds,Je me souviens de mon enfance,أنا مذكّر طفولتي,ana muzakkir tufuli,أنا مذكّرة طفولتي,ana muzakkira tufuli,
-920,1,Sentiments profonds,Mes souvenirs me manquent,مشتاق لذكرياتي,mushtak le zikriyati,مشتاقة لذكرياتي,mushtaga le zikriyati,
-921,1,Sentiments profonds,J'ai un rêve,أنا عندي حلم,ana indi hilim,أنا عندي حلم,ana indi hilim,invariable
-922,1,Sentiments profonds,Je veux réussir dans la vie,نتمنى أنجح في حياتي,nit mana nanjah fi hayati,نتمنى أنجح في حياتي,nit mana nanjah fi hayati,invariable
-923,1,Sentiments profonds,Je travaille pour mon avenir,أنا نخدم للمستقبل حقي,ana nakhadim le mustakhbal haggi,أنا نخدم للمستقبل حقي,ana nakhadim le mustakhbal haggi,invariable
-924,1,Sentiments profonds,Je pense à ma famille,أنا نفكر في أهلي,ana nifakkir fi ahli,أنا نفكر في أهلي,ana nifakkir fi ahli,invariable
-925,1,Sentiments profonds,Je pense à mes ancêtres,أنا نفكر في أجدادي,ana nifakir fi ajdadi,أنا نفكر في أجدادي,ana nifakir fi ajdadi,invariable
-926,1,Sentiments profonds,Le respect des anciens,احترام كبار السن,ihtiram kubar al sin,احترام كبار السن,ihtiram kubar al sin,invariable
-927,1,Sentiments profonds,La sagesse vient avec l'âge,الحكمة تجي مع الكبر,al hikma taji maa al kubur,الحكمة تجي مع الكبر,al hikma taji maa al kubur,invariable
-928,1,Sentiments profonds,J'écoute les conseils des vieux,أنا نسمع كلام الناس الكبار,ana nasma kalam nas al kubar,أنا نسمع كلام الناس الكبار,ana nasma kalam nas al kubar,invariable
-929,1,Sentiments profonds,Chaque personne a sa valeur,أي زول عنده قيمة,ayyi zol inda khima,أي زول عنده قيمة,ayyi zol inda khima,invariable
-930,1,Sentiments profonds,Sois fier de qui tu es,ابقى فخور بنفسك,abga fakhur be nafsak,ابقي فخورة بنفسكي,abge fakhura be nafsiki,destinataire h/f
-931,1,Sentiments profonds,Reste toi-même,اقعد زي ما انت,agod zay ma inta,اقعدي زي ما انتي,agodi zay ma inti,destinataire h/f
-932,1,Sentiments profonds,La force intérieure,القدرة الداخلية,al gudra al dakhiliya,القدرة الداخلية,al gudra al dakhiliya,invariable
-933,1,Sentiments profonds,Le courage vient du cœur,الشجاعة بتجي من القلب,al shaja bi taji min al galib,الشجاعة بتجي من القلب,al shaja bi taji min al galib,invariable
-934,1,Sentiments profonds,Je surmonte mes peurs,أنا نتغلب على خوفي,ana nit galab ale khofi,أنا نتغلب على خوفي,ana nit galab ale khofi,invariable
-935,1,Sentiments profonds,Je pardonne le passé,أنا نسامح شي الفات,ana ni samih chay al fat,أنا نسامح شي الفات,ana ni samih chay al fat,invariable
-936,1,Sentiments profonds,Je regarde vers l'avenir,أنا متمسك في المستقبل حقي,ana mumassik fi mustakhbal haggi,أنا متمسكة في المستقبل حقي,ana mumassika fi mustakhbal haggi,
-937,1,Sentiments profonds,Aujourd'hui est un bon jour,اليوم يوم حلو,alyom yom halu,اليوم يوم حلو,alyom yom halu,invariable
-938,1,Sentiments profonds,Je suis en paix avec moi-même,أنا مرتاح في نفسي,ana murtah fi nafsi,أنا مرتاحة في نفسي,ana murtah fi nafsi,invariable
-939,1,Sentiments profonds,J'ai confiance en la vie,أنا عندي ثقة في الحياة,ana indi sikha fil haya,أنا عندي ثقة في الحياة,ana indi sikha fil haya,invariable
-940,1,Sentiments profonds,Tout a un sens,أي شي عنده معنى,ayyi shay inda maana,أي شي عنده معنى,ayyi shay inda maana,invariable
+id,variante,categorie,anglais,arabe_litteraire,francais,arabe_tchadien_masculin,translit_masculin,arabe_tchadien_feminin,translit_feminin,note
+941,1,Securite personnelle et urgences,Help,النجدة,Au secours,ساعدوني,saiduni,ساعدوني,saiduni,invariable
+942,1,Securite personnelle et urgences,Call the police,اتصل بالشرطة,Appelle la police,نادو الشرطة,nadu al shurta,نادو الشرطة,nadu al shurta,invariable
+943,1,Securite personnelle et urgences,There is a thief,هناك لص,Il y a un voleur,في سرّاق,fi sarrak,في سرّاق,fi sarrak,invariable
+944,1,Securite personnelle et urgences,I was robbed,سُرقت,On m'a volé,سرقوني,sirgoni,سرقوني,sirgoni,invariable
+945,1,Securite personnelle et urgences,I lost my bag,فقدت حقيبتي,J'ai perdu mon sac,شنطتي وضّرت,shantiti waddarat,شنطتي وضّرت,shantiti waddarat,invariable
+946,1,Securite personnelle et urgences,There was an accident,حدث حادث,Il y a eu un accident,حصل حادث,hasal hadis,حصل حادث,hasal hadis,invariable
+947,1,Securite personnelle et urgences,Someone is hurt,شخص ما مصاب,Quelqu'un est blessé,في زول انجرح,fi zol injarah,في زول انجرح,fi zol injarah,invariable
+948,1,Securite personnelle et urgences,Call an ambulance,اتصل بالإسعاف,Appelle une ambulance,نادو الإسعاف,nadu al is af,نادو الإسعاف,nadu al is af,invariable
+949,1,Securite personnelle et urgences,Take him to the hospital,خذه إلى المستشفى,Emmène-le à l'hôpital,ودوه في اللبطان,wadu fil laptan,ودوها في اللبطان,waduwa fil laptan,destinataire h/f
+950,1,Securite personnelle et urgences,It is an emergency,هذه حالة طوارئ,C'est une urgence,دا ضروري,da daruri,دا ضروري,da daruri,invariable
+951,1,Securite personnelle et urgences,Stay calm,ابقَ هادئاً,Reste calme,اقعد ساكت,agod sakit,اقعدي ساكت,agodi sakit,destinataire h/f
+952,1,Securite personnelle et urgences,Don't panic,لا تذعر,Ne panique pas,ما تخاف,ma takhaf,ما تخافي,ma takhafe,destinataire h/f
+953,1,Securite personnelle et urgences,Move away from danger,ابتعد عن الخطر,Éloigne-toi du danger,اقعد بعيد من الخطورة,agod baid min al khutura,اقعدي بعيد من الخطورة,agodi baid min al khutura,destinataire h/f
+954,1,Securite personnelle et urgences,There is a fire,هناك حريق,Il y a un incendie,في حريقة,fi harige,في حريقة,fi harige,invariable
+955,1,Securite personnelle et urgences,Everyone get out,اخرجوا جميعاً,Sortez tous,امرقو كلكم,amurgu kuluku,امرقو كلكم,amurgu kuluku,invariable
+956,1,Securite personnelle et urgences,Lock the door,أقفل الباب,Ferme la porte à clé,قفّل الباب,gaffil al bab,قفّلي الباب,gaffili al bab,destinataire h/f
+957,1,Securite personnelle et urgences,Don't answer strangers,لا ترد على الغرباء,Ne réponds pas aux inconnus,ما ترد للناس ما معروفين,ma ti rud le nas ma marufin,ما تردي للناس ما معروفين,ruddi le nas ma marufin,destinataire h/f
+958,1,Securite personnelle et urgences,Check who it is before opening,تحقق من الهوية قبل الفتح,Vérifie qui c'est avant d'ouvrir,أكّد ياتو في الباب قبل تفتح,akkid yatu fil bab gabul aftaha,أكّدي ياتو في الباب قبل تفتحي,akkidi yatu fil bab gabul aftahe,destinataire h/f
+959,1,Securite personnelle et urgences,This place is not safe,هذا المكان غير آمن,Cet endroit n'est pas sûr,المكان دا ما عنده أمان,al bakan da ma inda aman,المكان دا ما عنده أمان,al bakan da ma inda aman,invariable
+960,1,Securite personnelle et urgences,Stay with me,ابقَ معي,Reste avec moi,اقعد معاي,agod mai,اقعدي معاي,agodi mai,destinataire h/f
+961,1,Securite personnelle et urgences,Don't go far,لا تبتعد,Ne t'éloigne pas,ما تمشي بعيد,ma tamshi baid,ما تمشي بعيد,ma tamshi baid,destinataire h/f
+962,1,Securite personnelle et urgences,I lost my way,ضللت طريقي,J'ai perdu mon chemin,الدرب وضّر لي,al daib waddar ley,الدرب وضّر لي,al daib waddar ley,invariable
+963,1,Securite personnelle et urgences,I am lost,أنا تائه,Je suis perdu,أنا وضّرت,ana waddar,أنا وضّرت,ana waddar,invariable
+964,1,Securite personnelle et urgences,Can you show me the way,هل يمكنك إرشادي للطريق,Peux-tu m'indiquer le chemin,تقدر توصفني الدرب,tagdar ti wassifni al darib,تقدري توصفيني الدرب,tagdare ti wassifni al darib,destinataire h/f
+965,1,Securite personnelle et urgences,I need help immediately,أحتاج مساعدة فوراً,J'ai besoin d'aide immédiatement,ندر مساعدة ضروري,nidor musaada daruri,ندر مساعدة ضروري,nidor musaada daruri,invariable
+966,1,Securite personnelle et urgences,Someone disappeared,شخص ما اختفى,Quelqu'un a disparu,في زول وضّر,fi zol waddar,في زول وضّر,fi zol waddar,invariable
+967,1,Securite personnelle et urgences,Notify the family,أخبر العائلة,Préviens la famille,خبّر الأهل,khabbir al ahal,خبّري الأهل,khabbiri al ahal,destinataire h/f
+968,1,Securite personnelle et urgences,Stay near the light,ابقَ قرب الضوء,Reste près de la lumière,اقعد جنب النور,agod gaib lel nur,اقعدي جنب النور,agodi gaib lel nur,destinataire h/f
+969,1,Securite personnelle et urgences,Don't go out alone at night,لا تخرج وحدك ليلاً,Ne sors pas seul la nuit,ما تمرق وحيدك بالليل,ma tamrug wehedak be fil lel,ما تمرقي وحيدكي بالليل,ma tamurgi wehedki be fil lel,destinataire h/f
+970,1,Securite personnelle et urgences,Be careful with strangers,احذر من الغرباء,Fais attention aux étrangers,انتبه من الأجانب,intabi min al ajanib,انتبهي من الأجانب,intabii min al ajanib,destinataire h/f
+971,1,Securite personnelle et urgences,Protect the children,احمِ الأطفال,Protège les enfants,احفظ العيال,ahfaz al iyal,احفظي العيال,ahfaze al iyal,destinataire h/f
+972,1,Securite personnelle et urgences,Watch your belongings closely,راقب أغراضك جيداً,Surveille bien tes affaires,انتبه لخمامك,intabih le khumamak,انتبهي لخمامكي,intabihi le khumamki,destinataire h/f
+973,1,Securite personnelle et urgences,Don't show your money in public,لا تُظهر مالك أمام الناس,Ne montre pas ton argent en public,ما توصف قروسك قدام الناس,ma ti wassif gursak giddam al nas,ما توصفي قروسكي قدام الناس,ma ti wassifi guruski giddam nas,destinataire h/f
+974,1,Securite personnelle et urgences,There is a fight,هناك شجار,Il y a une bagarre,في دواس,fi duwas,في دواس,fi duwas,invariable
+975,1,Securite personnelle et urgences,Separate them,افصلوهم,Séparez-les,فرقوهم,farugum,فرقوهم,farugum,invariable
+976,1,Securite personnelle et urgences,Both of you calm down,اهدآ كلاكما,Calmez-vous tous les deux,اصبرو اتنينكم,asburu tinenitku,اصبرو اتنينكم,asburu tinenitku,invariable
+977,1,Securite personnelle et urgences,This is not the solution,هذا ليس الحل,Ce n'est pas la solution,دا ما حلال,da ma halal,دا ما حلال,da ma halal,invariable
+978,1,Securite personnelle et urgences,Let's talk calmly,لنتحدث بهدوء,Parlons calmement,نحاجو براحتنا,na haju be rahitna,نحاجو براحتنا,na haju be rahitna,invariable
+979,1,Securite personnelle et urgences,Nobody is hurt, that's good,لا أحد مصاب هذا جيد,Personne n'est blessé, c'est bien,مافي زول انجرح دا عدل,mafi zol injarah da adil,مافي زول انجرح دا عدل,mafi zol injarah da adil,invariable
+980,1,Securite personnelle et urgences,The situation is under control,الوضع تحت السيطرة,La situation est sous contrôle,الوضع تحت السيطرة,al wadih tihit al saytara,الوضع تحت السيطرة,al wadih tihit al saytara,invariable
+981,1,Securite personnelle et urgences,Thank you for coming to help,شكراً لمجيئك للمساعدة,Merci d'être venu m'aider,شكراً على مساعدة حقك,shukran le musaada hintak,شكراً على مساعدة حقكي,shukran le musaada hintiki,destinataire h/f
+982,1,Securite personnelle et urgences,You saved me,لقد أنقذتني,Tu m'as sauvé,انت أنقذتني,inta anfaztini,انتي أنقذتني,inti anfaztini,destinataire h/f
+983,1,Securite personnelle et urgences,I owe you a lot,أنا مدين لك كثيراً,Je te dois beaucoup,أنا مديون ليك كتير,ana madyun lek katir,أنا مديون ليك كتير,ana madyun lek katir,invariable
+984,1,Securite personnelle et urgences,Take care of yourself after this,اعتنِ بنفسك بعد هذا,Prends soin de toi après ça,احفظ لنفسك بعد دا,hafiz le nafsak bad da,احفظي لنفسكي بعد دا,hafiz le nafsiki bad da,destinataire h/f
+985,1,Securite personnelle et urgences,Rest now,ارتح الآن,Repose-toi maintenant,هسه كدا انجمّ,hassa keda injamma,هسه كدا انجمّي,hassa keda anjamme,destinataire h/f
+986,1,Securite personnelle et urgences,All danger has passed,زال كل خطر,Tout danger est passé,الخطر فات خلاص,al khatar fat khalas,الخطر فات خلاص,al khatar fat khalas,invariable
+987,1,Securite personnelle et urgences,We are safe,نحن آمنون,On est en sécurité,قاعدين في أمان,gadin fi amni,قاعدين في أمان,gadin fi amni,invariable
+988,1,Securite personnelle et urgences,Let's go home,لنذهب إلى المنزل,Rentrons à la maison,نمشو البيت,namshu al bet,نمشو البيت,namshu al bet,invariable
+989,1,Securite personnelle et urgences,Lock the door well tonight,أقفل الباب جيداً الليلة,Verrouille bien la porte ce soir,سكّر الباب تمام,sakkir al bab tamam,سكّرا الباب تمام,sakkira al bab tamam,destinataire h/f
+990,1,Securite personnelle et urgences,Thank God, no more fear,الحمد لله لا خوف بعد الآن,Dieu merci, plus de peur,الحمد لله خوف مافي خلاص,al hamdoulillah khof mafi khalas,الحمد لله خوف مافي خلاص,al hamdoulillah khof mafi khalas,invariable
+991,1,Metiers et professions,The carpenter,النجار,Le menuisier,النجار,al najar,النجار,al najar,invariable
+992,1,Metiers et professions,The mason,البناء,Le maçon,البنا,al banna,البنا,al banna,invariable
+993,1,Metiers et professions,The mechanic,الميكانيكي,Le mécanicien,الميكانيكي,al makaniki,الميكانيكي,al makaniki,invariable
+994,1,Metiers et professions,The electrician,الكهربائي,L'électricien,الكهربائي,al kahrabi,الكهربائي,al kahrabi,invariable
+995,1,Metiers et professions,The plumber,السباك,Le plombier,السبّاك,al sabbak,السبّاك,al sabbak,invariable
+996,1,Metiers et professions,The tailor,الخياط,Le tailleur,الخياط,al khayyat,الخياط,al khayyat,invariable
+997,1,Metiers et professions,The hairdresser,الحلاق,Le coiffeur,الحلاق,al hallak,الحلاق,al hallak,invariable
+998,1,Metiers et professions,The seamstress,الخياطة,La couturière,الخياطة,al khayyata,الخياطة,al khayyata,invariable
+999,1,Metiers et professions,The baker,الخباز,Le boulanger,الخبّاز,al khabbaz,الخبّاز,al khabbaz,invariable
+1000,1,Metiers et professions,The butcher,الجزار,Le boucher,الجزّاري,al jazzari,الجزّاري,al jazzari,invariable
