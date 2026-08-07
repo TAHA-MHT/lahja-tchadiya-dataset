@@ -1,51 +1,61 @@
-id,variante,categorie,francais,arabe_masculin,translit_masculin,arabe_feminin,translit_feminin,note
-991,1,Metiers et professions,Le menuisier,النجار,al najar,النجار,al najar,invariable
-992,1,Metiers et professions,Le maçon,البنا,al banna,البنا,al banna,invariable
-993,1,Metiers et professions,Le mécanicien,الميكانيكي,al makaniki,الميكانيكي,al makaniki,invariable
-994,1,Metiers et professions,L'électricien,الكهربائي,al kahrabi,الكهربائي,al kahrabi,invariable
-995,1,Metiers et professions,Le plombier,السبّاك,al sabbak,السبّاك,al sabbak,invariable
-996,1,Metiers et professions,Le tailleur,الخياط,al khayyat,الخياط,al khayyat,invariable
-997,1,Metiers et professions,Le coiffeur,الحلاق,al hallak,الحلاق,al hallak,invariable
-998,1,Metiers et professions,La couturière,الخياطة,al khayyata,الخياطة,al khayyata,invariable
-999,1,Metiers et professions,Le boulanger,الخبّاز,al khabbaz,الخبّاز,al khabbaz,invariable
-1000,1,Metiers et professions,Le boucher,الجزّاري,al jazzari,الجزّاري,al jazzari,invariable
-1001,1,Metiers et professions,Le pêcheur,الصياد,al sayyad,الصياد,al sayyad,invariable
-1002,1,Metiers et professions,Le berger,الراعي,al rai,الراعي,al rai,invariable
-1003,1,Metiers et professions,Le forgeron,الحداد,al haddad,الحداد,al haddad,invariable
-1004,1,Metiers et professions,Le peintre,الدهّان,al dahhan,الدهّان,al dahhan,invariable
-1005,1,Metiers et professions,L'artiste,الفنان,al fannan,الفنان,al fannan,invariable
-1006,1,Metiers et professions,Le musicien,الموزيقي,al muzikhi,الموزيقي,al muzikhi,invariable
-1007,1,Metiers et professions,L'écrivain,الكاتب,al katib,الكاتب,al katib,invariable
-1008,1,Metiers et professions,Le journaliste,الصحفي,al sahafi,الصحفي,al sahafi,invariable
-1009,1,Metiers et professions,L'avocat,المحامي,al muhami,المحامي,al muhami,invariable
-1010,1,Metiers et professions,Le juge,القاضي,al qadi,القاضي,al qadi,invariable
-1011,1,Metiers et professions,L'ingénieur,مهندس,muhandis,مهندس,muhandis,invariable
-1012,1,Metiers et professions,L'infirmier,الممرض,al mumarrid,الممرض,al mumarrid,invariable
-1013,1,Metiers et professions,La sage-femme,القابلة,al qabila,القابلة,al qabila,invariable
-1014,1,Metiers et professions,Le pharmacien,الصيدلي,al saydali,الصيدلي,al saydali,invariable
-1015,1,Metiers et professions,Le comptable,المحاسب,al muhasib,المحاسب,al muhasib,invariable
-1016,1,Metiers et professions,Le secrétaire,السكرتير,al sikirter,السكرتير,al sikirter,invariable
-1017,1,Metiers et professions,Le gardien,الحارس,al haris,الحارس,al haris,invariable
-1018,1,Metiers et professions,Le vigile,رجل الأمن,rajil al amni,رجل الأمن,rajil al amni,invariable
-1019,1,Metiers et professions,Le maçon construit une maison,البنّاء قاعد يبني بيت,al bannaa gaid babni bet,البنّاءة قاعدة تبني بيت,al bannaa gaade tabni bet,
-1020,1,Metiers et professions,Le mécanicien répare les voitures,الميكانيكي بيصلح السيارات,al makaniki bi salih al sayyarat,الميكانيكية بتصلح السيارات,makanika bitsalih al sayyarat,
-1021,1,Metiers et professions,Le tailleur coud les vêtements,الخياط بيخيط الخلقان,al khayyat bikhayyit al khulgan,الخياطة بتخيط الملابس,khayyata bitikhayyit al malabis,
-1022,1,Metiers et professions,Je cherche un plombier,قاعد نفتش سبّاك,gaid ni fatish sayyak,قاعدة نفتش سبّاك,gaade ni fatish sayyak,
-1023,1,Metiers et professions,Combien gagne un enseignant,المعلم بكفو كم,al muallim bi kafu kam,المعلمة بكفوا كم,muallima bi kafua kam,
-1024,1,Metiers et professions,C'est un métier respecté,دي مهنة محترمة,di mihna muhtarima,دي مهنة محترمة,di mihna muhtarima,invariable
-1025,1,Metiers et professions,C'est un métier difficile,دي خدمة قاسية,di khidme gasie,دي خدمة صعبة,di khidme saaba,
-1026,1,Metiers et professions,J'aimerais devenir médecin,نضر نبقى دكتور,nidor nabga dictor,نضر نبقى دكتورة,nidor nabga dictora,
-1027,1,Metiers et professions,Quel métier veux-tu faire,تضر تخدم شنو,tidor takhadim shunu,تضري تخدمي شنو,tidori takhadimi shunu,destinataire h/f
-1028,1,Metiers et professions,Je suis fier de mon métier,أنا فرحان من خدمتي,ana farhan min khidimti,أنا فرحانة من خدمتي,ana farhana min khidimti,
-1029,1,Metiers et professions,J'ai beaucoup d'expérience,عندي خبرة كبيرة,indi khibra kabire,عندي خبرة كبيرة,indi khibra kabire,invariable
-1030,1,Metiers et professions,Je suis débutant dans ce métier,أنا دهبي جديد في المهنة دي,ana dahabi jadid fi al mihna di,أنا دهبي جديدة في المهنة دي,ana dahabi jadide fi al mihna di,
-1031,1,Metiers et professions,J'ai appris ce métier avec mon père,علمت المهنة دي من أبوي,allamtal mihna di min aboui,علمت المهنة دي من أبوي,allamtal mihna di min aboui,invariable
-1032,1,Metiers et professions,Ce métier nourrit ma famille,المهنة دي تعيّش أهلي,al mihna di ti ayyish ahli,المهنة دي تعيّش أهلي,al mihna di ti ayyish ahli,invariable
-1033,1,Metiers et professions,Je cherche un apprenti,قاعد نفتش متدرب,gaid ni fattish mutadarrib,قاعدة نفتش متدرب,gaade ni fattish mutadarrib,
-1034,1,Metiers et professions,Je forme des jeunes,قاعد نعلم الشباب,gaid na allim al shabab,قاعدة نعلم الشباب,gaade na allim al shabab,
-1035,1,Metiers et professions,Le travail manuel est important,الخدمة بالإيد دي مهمة,al khidime al be iden di muhima,الخدمة بالإيد دي مهمة,al khidime al be iden di muhima,invariable
-1036,1,Metiers et professions,Chaque métier a sa valeur,أي مهنة عندها قيمة,ayyi minha inda khima,أي مهنة عندها قيمة,ayyi minha inda khima,invariable
-1037,1,Metiers et professions,Il n'y a pas de sot métier,مافي مهنة ما عندها قيمة,mafi minha ma indi khima,مافي مهنة ما عندها قيمة,mafi minha ma indi khima,invariable
-1038,1,Metiers et professions,Je suis mon propre patron,أنا بس رئيس لنفسي,ana bes rais le nafsi,أنا بس رئيسة لنفسي,ana bes raisa le nafsi,
-1039,1,Metiers et professions,J'ai créé mon entreprise,أنا بس أسست الشركة حنتي,ana bes assas al sharika hinti,أنا بس أسست الشركة حنتي,ana bes assas al sharika hinti,invariable
-1040,1,Metiers et professions,Je veux développer mon activité,نضر نوسّع شغلتي,nidor ni wassii shakhalti,نضر نوسّع شغلتي,nidor ni wassii shakhalti,invariable
+id,variante,categorie,anglais,arabe_litteraire,francais,arabe_tchadien_masculin,translit_masculin,arabe_tchadien_feminin,translit_feminin,note
+1061,1,Sante et hopital,She is giving birth,هي تلد,Elle accouche,هي قاعدة في الولادة,hi gaada fil wilada,هي قاعدة في الولادة,hi gaada fil wilada,invariable
+1062,1,Sante et hopital,The newborn,المولود الجديد,Le nouveau-né,المولود الجديد,al mawlud al jadid,المولودة الجديدة,al mawluda al jadida,
+1063,1,Sante et hopital,The vaccination,التطعيم,La vaccination,التطعيم,al tatin,التطعيم,al tatin,invariable
+1064,1,Sante et hopital,The consultation,الفحص,La consultation,الكشف,al kashif,الكشف,al kashif,invariable
+1065,1,Sante et hopital,The medical appointment,الموعد الطبي,Le rendez-vous médical,الموعد الطبي,al mawid al tibbi,الموعد الطبي,al mawid al tibbi,invariable
+1066,1,Sante et hopital,The waiting room,غرفة الانتظار,La salle d'attente,الصالة حق الانتظار,al sala hint al intizar,الصالة حق الانتظار,al sala hint al intizar,invariable
+1067,1,Sante et hopital,The nurse will call you,الممرضة ستناديك,L'infirmière va t'appeler,الممرضة تناديك بعدين,al mumarida tinadik baaden,الممرضة تناديكي بعدين,al mumarida tinadiki baaden,destinataire h/f
+1068,1,Sante et hopital,The blood pressure,ضغط الدم,La tension artérielle,ضغط الدم,dakhit al dam,ضغط الدم,dakhit al dam,invariable
+1069,1,Sante et hopital,Diabetes,السكري,Le diabète,السكري,al sukari,السكري,al sukari,invariable
+1070,1,Sante et hopital,Malaria,الملاريا,Le paludisme,الملاريا,al malariya,الملاريا,al malariya,invariable
+1071,1,Sante et hopital,I have malaria,لدي الملاريا,J'ai le palu,عندي ملاريا,indi malariya,عندي ملاريا,indi malariya,invariable
+1072,1,Sante et hopital,The blood test,تحليل الدم,La prise de sang,تحليل الدم,tahlil al dam,تحليل الدم,tahlil al dam,invariable
+1073,1,Sante et hopital,The test results,نتيجة التحليل,Les résultats de l'analyse,نتيجة التحليل,natija hint al tahlil,نتيجة التحليل,natija hint al tahlil,invariable
+1074,1,Sante et hopital,The operation,العملية,L'opération,العملية,al amaliyya,العملية,al amaliyya,invariable
+1075,1,Sante et hopital,I must be hospitalized,يجب أن أدخل المستشفى,Je dois être hospitalisé,اليوم بكربوني في المستشفى,alyom bakurbuni fil mustashfa,اليوم بكربوني في المستشفى,alyom bakurbuni fil mustashfa,invariable
+1076,1,Sante et hopital,I am leaving the hospital,أخرج من المستشفى,Je sors de l'hôpital,اليوم مارق من المستشفى,alyom marig min al mustashfa,اليوم مارقة من المستشفى,alyom marga min al mustashfa,
+1077,1,Sante et hopital,I feel much better,أشعر بتحسن كبير,Je me sens beaucoup mieux,قاعد نحس بتحسن,gaid ni his be tahassun,قاعدة نحس بتحسن,gaade ni his be tahassun,
+1078,1,Sante et hopital,The pain has decreased,الألم قد قلّ,La douleur a diminué,الوجعة نقص,al wajaa nagas,الوجعة نقص,al wajaa nagas,invariable
+1079,1,Sante et hopital,The pain has increased,الألم قد زاد,La douleur a augmenté,الوجعة زاد,al waja zad,الوجعة زاد,al waja zad,invariable
+1080,1,Sante et hopital,It hurts a lot,يؤلم كثيراً,Ça fait très mal,بوجع بلحين,boja bilhen,بوجع بلحين,boja bilhen,invariable
+1081,1,Sante et hopital,It doesn't hurt anymore,لا يؤلم بعد الآن,Ça ne fait plus mal,ما بوجع,ma boja,ما بوجع,ma boja,invariable
+1082,1,Sante et hopital,Disability,الإعاقة,Le handicap,الإعاقة,al iaga,الإعاقة,al iaga,invariable
+1083,1,Sante et hopital,He is blind,هو أعمى,Il est aveugle,هو أعميان,hu amyan,,,sujet fixe masculin - "il"
+1084,1,Sante et hopital,She is deaf,هي صماء,Elle est sourde,,,هي طرشانة,hi tarshana,sujet fixe feminin - "elle"
+1085,1,Sante et hopital,He cannot walk,لا يستطيع المشي,Il ne peut pas marcher,ما بقدر يمشي,ma bagdar bu rukh,ما تقدر تمشي,ma tagdar tu rukh,il/elle - variante selon sujet
+1086,1,Sante et hopital,The wheelchair,الكرسي المتحرك,Le fauteuil roulant,الكرسي المتحرك,al kursi al mutahirik,الكرسي المتحرك,al kursi al mutahirik,invariable
+1087,1,Sante et hopital,The reading glasses,النظارة الطبية,Les lunettes de vue,النظارة,al naddara,النظارة,al naddara,invariable
+1088,1,Sante et hopital,I must rest for several days,يجب أن أرتاح عدة أيام,Je dois me reposer plusieurs jours,لازم نتجمع أيامات,lazim nijamma ayyamat,لازم نتجمع أيامات,lazim nijamma ayyamat,invariable
+1089,1,Sante et hopital,Come back if it gets worse,عد إذا ساءت الحالة,Reviens si ça empire,قبل كن الوجع زاد,gabbil kin al narad zad,قبلي كن الوجع زاد,gabbili kin al narad zad,destinataire h/f
+1090,1,Sante et hopital,Take care of your health,اعتنِ بصحتك,Prends soin de ta santé,اهتم بصحتك,ihtam be sahitak,اهتمي بصحتكي,ihtame be sahitki,destinataire h/f
+1091,1,Argent banque et mobile money,I opened a bank account,فتحت حساباً مصرفياً,J'ai ouvert un compte bancaire,فتح حساب في البنكي,fatah hisab fil banki,فتح حساب في البنكي,fatah hisab fil banki,invariable
+1092,1,Argent banque et mobile money,I want to withdraw money,أريد سحب المال,Je veux retirer de l'argent,ندر نشيل قروش,nidor ni shil gurus,ندر نشيل قروش,nidor ni shil gurus,invariable
+1093,1,Argent banque et mobile money,I want to deposit money,أريد إيداع المال,Je veux déposer de l'argent,ندر نسب قروش,nidor nu sub gurus,ندر نسب قروش,nidor nu sub gurus,invariable
+1094,1,Argent banque et mobile money,The ATM,الصراف الآلي,Le distributeur automatique,الصريف الآلي,al sarif al ali,الصريف الآلي,al sarif al ali,invariable
+1095,1,Argent banque et mobile money,My bank card is not working,بطاقتي المصرفية لا تعمل,Ma carte bancaire ne marche pas,بطاقتي حق البنكي ما شغالة,bitakhati hintal banki ma shakhala,بطاقتي حق البنكي ما شغالة,bitakhati hintal banki ma shakhala,invariable
+1096,1,Argent banque et mobile money,I made a transfer,قمت بتحويل,J'ai fait un virement,حول قروش,hawal gurus,حول قروش,hawal gurus,invariable
+1097,1,Argent banque et mobile money,I received a transfer,استلمت تحويلاً,J'ai reçu un virement,التحويل وصلني,al tahwil wasalani,التحويل وصلني,al tahwil wasalani,invariable
+1098,1,Argent banque et mobile money,Mobile money transfer,التحويل عبر الهاتف,Le transfert d'argent mobile,التحويل حق القروش بالموبايل,al tahwil al gurus bel mobayl,التحويل حق القروش بالموبايل,al tahwil al gurus bel mobayl,invariable
+1099,1,Argent banque et mobile money,Send me money by mobile,أرسل لي مالاً عبر الهاتف,Envoie-moi de l'argent par mobile,ارسل لي قروش بالموبايل,arsil ley gurus bel mobile,ارسلي لي قروش بالموبايل,arsili ley gurus bel mobile,destinataire h/f
+1100,1,Argent banque et mobile money,I received the money,استلمت المال,J'ai reçu l'argent,لقيت القروش,ligit al gurus,لقيت القروش,ligit al gurus,invariable
+1101,1,Argent banque et mobile money,The transaction code,رمز المعاملة,Le code de transaction,الكلمات السرية حق التحويل,al kalimat al sirriya hint al tahwil,الكلمات السرية حق التحويل,al kalimat al sirriya hint al tahwil,invariable
+1102,1,Argent banque et mobile money,The fees are too high,الرسوم مرتفعة جداً,Les frais sont trop élevés,قروش التحويل خالي بلحين,gurus al tahwil khali bilhen,قروش التحويل خالي بلحين,gurus al tahwil khali bilhen,invariable
+1103,1,Argent banque et mobile money,The exchange rate,سعر الصرف,Le taux de change,سعر البدل,siir al badal,سعر البدل,siir al badal,invariable
+1104,1,Argent banque et mobile money,I want to exchange money,أريد صرف المال,Je veux changer de l'argent,ندر نبدل قروش,nidor ni baddil gurus,ندر نبدل قروش,nidor ni baddil gurus,invariable
+1105,1,Argent banque et mobile money,The dollar,الدولار,Le dollar,الدولار,al dolar,الدولار,al dolar,invariable
+1106,1,Argent banque et mobile money,The euro,اليورو,L'euro,اليورو,al yuro,اليورو,al yuro,invariable
+1107,1,Argent banque et mobile money,The CFA franc,الفرنك الأفريقي,Le franc CFA,الفرنك الأفريقي,al farankal sefa,الفرنك الأفريقي,al farankal sefa,invariable
+1108,1,Argent banque et mobile money,I saved this year,ادخرت هذا العام,J'ai économisé cette année,السنة دي وفر قروش,al sana di waffar gurus,السنة دي وفر قروش,al sana di waffar gurus,invariable
+1109,1,Argent banque et mobile money,I spend too much,أصرف كثيراً,Je dépense trop,قاعد نصرف قروش كتير,gaid nasruf gurus katir,قاعدة نصرف قروش كتير,gaade nasruf gurus katir,
+1110,1,Argent banque et mobile money,We must make a budget,يجب أن نضع ميزانية,Il faut faire un budget,سوي ميزانية,sey mizaniya,سوي ميزانية,sey mizaniya,invariable
+1111,1,Argent banque et mobile money,I am going to invest,سأستثمر,Je vais investir,ندر نستثمر,nidor nistasmir,ندر نستثمر,nidor nistasmir,invariable
+1112,1,Argent banque et mobile money,I made a good deal,أنجزت صفقة جيدة,J'ai fait un bon commerce,أنا تاجر عادل,ana tajar adil,أنا تاجر عادل,ana tajar adil,invariable
+1113,1,Argent banque et mobile money,I made a loss,تكبدت خسارة,J'ai fait une perte,خسر,khisir,خسر,khisir,invariable
+1114,1,Argent banque et mobile money,The profit,الربح,Le bénéfice,الفايدة,al fayde,الفايدة,al fayde,invariable
+1115,1,Argent banque et mobile money,The debt,الدين,La dette,الدين,al den,الدين,al den,invariable
+1116,1,Argent banque et mobile money,I am paying back little by little,أسدد شيئاً فشيئاً,Je rembourse petit à petit,نكفي شية شية,ni kaffi shiya shiya,نكفي شية شية,ni kaffi shiya shiya,invariable
+1117,1,Argent banque et mobile money,The credit,القرض,Le crédit,الدين,al den,الدين,al den,invariable
+1118,1,Argent banque et mobile money,The interest,الفائدة,L'intérêt,الربح,al ribah,الربح,al ribah,invariable
+1119,1,Argent banque et mobile money,I am saving for the future,أدخر للمستقبل,Je fais des économies pour l'avenir,ندوم قروش للمستقبل,ni dum gurus lel mustakhbal,ندوم قروش للمستقبل,ni dum gurus lel mustakhbal,invariable
+1120,1,Argent banque et mobile money,I support my family financially,أدعم عائلتي مادياً,Je soutiens ma famille financièrement,نساعد أهلي,ni said ahli,نساعد أهلي,ni said ahli,invariable
