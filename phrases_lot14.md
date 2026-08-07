@@ -45,7 +45,7 @@ id,variante,categorie,anglais,arabe_litteraire,francais,arabe_tchadien_masculin,
 743,1,Formalites administratives,My birth certificate,شهادة ميلادي,Mon acte de naissance,شهادة ميلادي,shahada miladi,شهادة ميلادي,shahada miladi,invariable
 744,1,Formalites administratives,I lost my documents,فقدت أوراقي,J'ai perdu mes papiers,أنا وضّرت أوراق حقي,ana wadar awrag haggi,أنا وضّرت أوراق حقي,ana wadar awrag haggi,invariable
 745,1,Formalites administratives,Where is the administrative office,أين المكتب الإداري,Où est le bureau administratif,وين مكتب الإدارة,wen maktab al idara,وين مكتب الإدارة,wen maktab al idara,invariable
-746,1,Formalites administratives,I must submit an application,يجب أن أقدم طلباً,Je dois faire une demande,ندر نقدّم ورقة,nidor ni gaddim waraga,ندر نقدّم ورقة,nidor ni gaddim waraga,invariable
+746,1,Formalites administratives,I must submit an application,يجب أن أقدم طلباً,Je dois faire une demande,ندور نقدّم ورقة,nidor ni gaddim waraga,ندور نقدّم ورقة,nidor ni gaddim waraga,invariable
 747,1,Formalites administratives,Fill out this form,املأ هذه الاستمارة,Remplis ce formulaire,اكتب في الاستمارة,aktib fi al istimara,اكتبي في الاستمارة,aktibi fi al istimara,destinataire h/f
 748,1,Formalites administratives,Sign here,وقّع هنا,Signe ici,امضاء هني,amdah hini,امضائي هني,amdahe hini,destinataire h/f
 749,1,Formalites administratives,Bring a photo,أحضر صورة,Apporte une photo,جيب صورة حقك,jib sura hintak,جيبي صورة حقكي,jibi sura hintiki,destinataire h/f
@@ -55,7 +55,7 @@ id,variante,categorie,anglais,arabe_litteraire,francais,arabe_tchadien_masculin,
 753,1,Formalites administratives,The court,المحكمة,Le tribunal,المحكمة,al mahkama,المحكمة,al mahkama,invariable
 754,1,Formalites administratives,The police,الشرطة,La police,الشرطة,al shurta,الشرطة,al shurta,invariable
 755,1,Formalites administratives,The police station,مركز الشرطة,Le commissariat,مركز الشرطة,markaz al shurta,مركز الشرطة,markaz al shurta,invariable
-756,1,Formalites administratives,I need a certificate,أحتاج شهادة,J'ai besoin d'une attestation,ندر شهادة,nidor shahada,ندر شهادة,nidor shahada,invariable
+756,1,Formalites administratives,I need a certificate,أحتاج شهادة,J'ai besoin d'une attestation,ندور شهادة,nidor shahada,ندور شهادة,nidor shahada,invariable
 757,1,Formalites administratives,This document is important,هذه الوثيقة مهمة,Ce document est important,الورقة دي مهمة,al waraga di muhimma,الورقة دي مهمة,al waraga di muhimma,invariable
 758,1,Formalites administratives,Make a copy,انسخ هذا,Fais une copie,صوّرا,sawira,صوّري,sawwiriya,destinataire h/f
 759,1,Formalites administratives,The stamp,الطابع,Le timbre,الطابع,al tabi,الطابع,al tabi,invariable
