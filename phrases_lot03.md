@@ -39,11 +39,11 @@ id,variante,categorie,anglais,arabe_litteraire,francais,arabe_tchadien_masculin,
 119,2,Travail et metiers,It is a difficult job,إنه عمل صعب,C'est un travail difficile,دي خدمة قاسية,di khidimé gasié,دي خدمة قاسية,di khidimé gasié,invariable
 119,3,Travail et metiers,It is a difficult job,إنه عمل صعب,C'est un travail difficile,دي خدمة صعبة,di khidimé saaba,دي خدمة صعبة,di khidimé saaba,invariable
 120,1,Travail et metiers,I want to rest,أريد أن أرتاح,Je veux me reposer,عايز أرتاح,'âyiz artâh,عايزة أرتاح,'âyza artâh,
-120,2,Travail et metiers,I want to rest,أريد أن أرتاح,Je veux me reposer,نضر نتجمّع,nidor ninjamma,نضر نتجمّع,nidor ninjamma,invariable
+120,2,Travail et metiers,I want to rest,أريد أن أرتاح,Je veux me reposer,ندور نتجمّع,nidor ninjamma,ندور نتجمّع,nidor ninjamma,invariable
 121,1,Argent et commerce,Give me the change,أعطني الفكة,Donne-moi la monnaie,اداني الفكة,iddâni el fakka,اداني الفكة,iddâni el fakka,invariable
 121,2,Argent et commerce,Give me the change,أعطني الفكة,Donne-moi la monnaie,انطيني بدل,antini badal,انطيني بدل,antini badal,invariable
 122,1,Argent et commerce,I want to buy this,أريد شراء هذا,Je veux acheter ceci,عايز أشتري دا,'âyiz ashtiri da,عايزة أشتري دا,'âyza ashtiri da,
-122,2,Argent et commerce,I want to buy this,أريد شراء هذا,Je veux acheter ceci,نضر نبيع شغل,nidor ni bii shokhol,نضر نبيع شغل,nidor ni bii shokhol,invariable
+122,2,Argent et commerce,I want to buy this,أريد شراء هذا,Je veux acheter ceci,ندور نبيع شغل,nidor ni bii shokhol,ندور نبيع شغل,nidor ni bii shokhol,invariable
 122,3,Argent et commerce,I want to buy this,أريد شراء هذا,Je veux acheter ceci,داير نبيع شغل,dayir ni bii shokhol,دايرة نبيع شغل,dayira ni bii shokhol,
 122,4,Argent et commerce,I want to buy this,أريد شراء هذا,Je veux acheter ceci,داير نشتري شغل,dayir nishtari shokhol,دايرة نشتري شغل,dayira nishtari shokhol,
 122,5,Argent et commerce,I want to buy this,أريد شراء هذا,Je veux acheter ceci,داير نشتري حاجة,dayir nishtari haja,دايرة نشتري حاجة,dayira nishtari haja,
