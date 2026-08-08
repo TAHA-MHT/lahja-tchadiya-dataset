@@ -48,4 +48,4 @@
 1387,1,Enfance et education,Prepare him for the future,جهّزه للمستقبل,Prépare-le pour l'avenir,جهزا للمستقبل,jahiza lel mustakhbal,جهزية للمستقبل,jahizya lel mustakhbal,destinataire h/f
 1388,1,Enfance et education,The child is the family's future,الطفل مستقبل الأسرة,L'enfant est l'avenir de la famille,الطفل مستقبل الأسرة,al tifil mustakhbal al usra,الطفلة مستقبل الأسرة,al tifla mustakhbal al usra,
 1389,1,Enfance et education,Raising a child requires patience,تربية الطفل تتطلب صبراً,Élever un enfant demande de la patience,تربية حق الأطفال تضر صبر,tarbiya hint al atfal tidor sabur,تربية حق الأطفال تضر صبر,tarbiya hint al atfal tidor sabur,invariable
-1390,1,Enfance et education,Every child is a blessing,كل طفل نعمة,Chaque enfant est une bénédiction,كل طفل نعمة,kul tifil niima,كل طفلة نعمة,kul tifla niima,
+1390,1,Enfance et education,Every child is a blessing,كل طفل نعمة,Chaque enfant est une bénédiction,أي طفل نعمة,ayyi tifil niima,أي طفلة نعمة,ayyi tifla niima,
