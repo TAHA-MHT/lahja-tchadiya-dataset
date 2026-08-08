@@ -1,0 +1,10 @@
+1691,1,Securite routiere,Don't phone while driving,لا تتحدث في الهاتف أثناء القيادة,Ne téléphone pas en conduisant,ما تحاجي بي التلفون كن سايق,ma tahaji be telefone kin sayig,ما تحاجي بي التلفون كن سايقة,ma tahaji be telefone kin sayiga,destinataire h/f
+1692,1,Securite routiere,Keep your hands on the wheel,حافظ على يديك على المقود,Garde les mains sur le volant,اكرب الدريكسون,akrub al diriskon,اكربي الدريكسون,akrubi al diriskon,destinataire h/f
+1693,1,Securite routiere,Children must be strapped in,يجب ربط الأطفال بالحزام,Les enfants doivent être attachés,العيال لازم ياسلبسو الحزام,al iyal lazim yaslbaso al hizam,العيال لازم ياسلبسو الحزام,al iyal lazim yaslbaso al hizam,invariable
+1694,1,Securite routiere,The baby car seat,مقعد الطفل,Le siège auto pour bébé,الكرسي حنال الطفل,al kursi hanal tifil,الكرسي حنال الطفل,al kursi hanal tifil,invariable
+1695,1,Securite routiere,Driving at night is more dangerous,القيادة ليلاً أخطر,Conduire la nuit est plus dangereux,السواقة حنت الليل خطيرة,al suwage hint al lel khatira,السواقة حنت الليل خطيرة,al suwage hint al lel khatira,invariable
+1696,1,Securite routiere,Turn on your headlights,شغّل الأضواء المنخفضة,Allume tes feux de croisement,ولي النور حنال الواتر,walli al nur hanal watir,ولي النور حنال الواتر,walli al nur hanal watir,destinataire h/f
+1697,1,Securite routiere,Don't drive when tired,لا تقد وأنت متعب,Ne conduis pas fatigué,كن عيان ما تسوق,kin ayyan ma ti sug,كن عيانة ما تسوقي,kin ayyana ma ti sugi,destinataire h/f
+1698,1,Securite routiere,Take a break every two hours,خذ استراحة كل ساعتين,Fais une pause toutes les deux heures,كلو ساعتين ارتاح,kulu saiten irtah,كلو ساعتين ارتاحي,kulu saiten irtahi,destinataire h/f
+1699,1,Securite routiere,Thank you for driving carefully,شكراً لقيادتك بحذر,Merci d'avoir conduit prudemment,شكراً للسواقة البي حذر,shukran lel suwage al be hizar,شكراً للسواقة البي حذر,shukran lel suwage al be hizar,invariable
+1700,1,Securite routiere,Road safety saves lives,سلامة الطرق تنقذ الأرواح,La sécurité routière sauve des vies,السواقة بي حذر تحفظ الأرواح,al suwage be hizar tahfaz al arwah,السواقة بي حذر تحفظ الأرواح,al suwage be hizar tahfaz al arwah,invariable
