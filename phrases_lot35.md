@@ -24,3 +24,27 @@
 1774,1,Transport et voyage,I traveled by camel,سافرت على الجمل,J'ai voyagé à dos de chameau,سافر بالجمل,safar bil jamal,سافر بالجمل,safar bil jamal,invariable
 1775,1,Transport et voyage,The donkey carries heavy loads,يحمل الحمار أحمالاً ثقيلة,L'âne porte de lourdes charges,الحمار بيشيل حمام تقيل,al humar bi shil humam tagil,الحمار بيشيل حمام تقيل,al humar bi shil humam tagil,invariable
 1776,1,Transport et voyage,I go on foot,أذهب سيراً على الأقدام,J'y vais à pied,نمشي برجلي,namshi be rijili,نمشي برجلي,namshi be rijili,invariable
+1777,1,Transport et voyage,It takes three hours by car,يستغرق الأمر ثلاث ساعات بالسيارة,Ça prend trois heures en voiture,المسافة بالعربية بيشيل تلاتة ساعات,al masafa bel arabiyya bi shil talata saat,المسافة بالعربية بيشيل تلاتة ساعات,al masafa bel arabiyya bi shil talata saat,invariable
+1778,1,Transport et voyage,The border is closed,الحدود مغلقة,La frontière est fermée,الحدود مسدودة,al hudud masduda,الحدود مسدودة,al hudud masduda,invariable
+1779,1,Transport et voyage,I need a visa to travel,أحتاج تأشيرة للسفر,J'ai besoin d'un visa pour voyager,نيدر تأشيرة عشان ني سافر,nidor taashira ashan ni safir,نيدرة تأشيرة عشان ني سافر,nidora taashira ashan ni safir,genre du sujet
+1780,1,Transport et voyage,The passport is ready,جواز السفر جاهز,Le passeport est prêt,الجواز جاهز,al jawaz jahiz,الجواز جاهز,al jawaz jahiz,invariable
+1781,1,Transport et voyage,We arrived safely,وصلنا بسلام,Nous sommes arrivés sains et saufs,وصلنا بأمان وسلامة,wisilna be aman wa asalama,وصلنا بأمان وسلامة,wisilna be aman wa asalama,invariable
+1782,1,Transport et voyage,The trip was long but beautiful,كانت الرحلة طويلة لكن جميلة,Le voyage était long mais beau,السفر بقى طويل وحلو,al safar biga tawil wa halu,السفر بقى طويل وحلو,al safar biga tawil wa halu,invariable
+1783,1,Transport et voyage,I want to visit my family,أريد زيارة عائلتي,Je veux rendre visite à ma famille,نيدر ني زور أهلي,nidor ni zur ahli,نيدرة ني زورة أهلي,nidora ni zura ahli,genre du sujet
+1784,1,Transport et voyage,The market is next to the station,السوق بجانب المحطة,Le marché est à côté de la gare,السوق قايد جنب الموقف,as-suq gaid jamb al-mawgaf,السوق قايد جنب الموقف,as-suq gaid jamb al-mawgaf,invariable
+1785,1,Transport et voyage,Turn right at the corner,انعطف يميناً عند الزاوية,Tourne à droite au coin,لف بي يمين,liff bi yamin,لفي بي يمين,liffi bi yamin,genre du sujet
+1786,1,Transport et voyage,Go straight ahead,اذهب مباشرة,Va tout droit,امشي عديل,imshi adil,امشي عديل,imshi adil,invariable
+1787,1,Transport et voyage,I am lost,أنا تائه,Je suis perdu,أنا ودار,ana waddar,أنا ودارة,ana waddara,genre du sujet
+1788,1,Transport et voyage,Can you show me the way,هل يمكنك أن تريني الطريق,Peux-tu me montrer le chemin,تقدر توريني الطريق,tagdar ti wassifini al darib,تقدري توريني الطريق,tagdari ti wassifini al darib,genre du sujet
+1789,1,Transport et voyage,The city is growing fast,تنمو المدينة بسرعة,La ville grandit vite,المدينة قاعدة توسع بسرعة,al madina gaade til wassa be sur'a,المدينة قاعدة til wassa be sur'a,al madina gaade til wassa be sur'a,invariable
+1790,1,Transport et voyage,There is heavy traffic,هناك ازدحام كبير,Il y a beaucoup de circulation,في زحمة كبيرة,fi zahma kabira,في زحمة كبيرة,fi zahma kabira,invariable
+1791,1,Transport et voyage,The vehicle needs fuel,تحتاج المركبة إلى وقود,Le véhicule a besoin de carburant,العربية محتاجة لي بنزين,al arabiyya muhtaja le banzin,العربية محتاجة لي بنزين,al arabiyya muhtaja le banzin,invariable
+1792,1,Transport et voyage,I parked the car here,أوقفت السيارة هنا,J'ai garé la voiture ici,وقفت العربية هني,waggaft al arabiyya hini,وقفت العربية هني,waggaft al arabiyya hini,invariable
+1793,1,Transport et voyage,The motorcycle is fast,الدراجة النارية سريعة,La moto est rapide,الدراجة النارية سريعة,ad-daraja an-nariyya sari'a,الدراجة النارية سريعة,ad-daraja an-nariyya sari'a,invariable
+1794,1,Transport et voyage,I prefer traveling at night,أفضل السفر ليلاً,Je préfère voyager la nuit,السفر بالراحة ليلي,as-safar bil-raha leyli,السفر بالراحة ليلي,as-safar bil-raha leyli,invariable
+1795,1,Transport et voyage,The guide knows the way,يعرف الدليل الطريق,Le guide connaît le chemin,الدليل بعرف الطريق,ad-dalil baaraf at-tarig,الدليل بعرف الطريق,ad-dalil baaraf at-tarig,invariable
+1796,1,Transport et voyage,We must leave early,يجب أن نغادر مبكراً,Nous devons partir tôt,لازم نمشو بدري,lazim namshu badri,لازم نمشو بدري,lazim namshu badri,invariable
+1797,1,Transport et voyage,The rain delayed our trip,أخر المطر رحلتنا,La pluie a retardé notre voyage,المطر أخرت سفرنا,al matara akharat safarna,المطر أخرت سفرنا,al matara akharat safarna,invariable
+1798,1,Transport et voyage,I enjoy discovering new places,أستمتع باكتشاف أماكن جديدة,J'aime découvrir de nouveaux endroits,ني حب ني شوف محلات جداد,ni hib ni shif mahalat judad,ني حب ني شوف محلات جداد,ni hib ni shif mahalat judad,invariable
+1799,1,Transport et voyage,Travel broadens the mind,السفر يوسع المدارك,Voyager ouvre l'esprit,السفر بيوسع الفكر,as-safar biwassi al-fikir,السفر بيوسع الفكر,as-safar biwassi al-fikir,invariable
+1800,1,Transport et voyage,May our journey be safe,أتمنى أن تكون رحلتنا آمنة,Que notre voyage soit sûr,الله يحفظنا ويلحقنا بسلام,allah yahfazna wa yi lahikna be salama,الله يحفظنا ويلحقنا بسلام,allah yahfazna wa yi lahikna be salama,invariable
