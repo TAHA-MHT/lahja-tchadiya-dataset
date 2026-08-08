@@ -1,3 +1,4 @@
+id,variante,categorie,anglais,arabe_litteraire,francais,arabe_masculin,translit_masculin,arabe_feminin,translit_feminin,note
 1341,1,Enfance et education,My child,طفلي,Mon enfant,ولدي,wiledi,ولدي,wiledi,invariable
 1342,1,Enfance et education,My baby,رضيعي,Mon bébé,طفلي,tifli,طفلي,tifli,invariable
 1343,1,Enfance et education,The infant,الرضيع,Le nourrisson,الرضيع,al radi,الرضيع,al radi,invariable
