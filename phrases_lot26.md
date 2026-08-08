@@ -1,3 +1,4 @@
+id,variante,categorie,anglais,arabe_litteraire,francais,arabe_masculin,translit_masculin,arabe_feminin,translit_feminin,note
 1291,1,Meteo et catastrophes naturelles,Today's weather,الطقس اليوم,La météo aujourd'hui,جو حق اليوم,jaw hanal yom,جو حق اليوم,jaw hanal yom,invariable
 1292,1,Meteo et catastrophes naturelles,The weather bulletin,نشرة الطقس,Le bulletin météo,نشرة التقس اليوم,nashrat al takhs alyom,نشرة التقس اليوم,nashrat al takhs alyom,invariable
 1293,1,Meteo et catastrophes naturelles,It's going to rain,سوف تمطر,Il va pleuvoir,المطرة جاية,al matara jaye,المطرة جاية,al matara jaye,invariable
