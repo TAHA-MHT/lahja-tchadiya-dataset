@@ -1,0 +1,50 @@
+1851,1,Autres sports,I like playing basketball,أحب لعب كرة السلة,J'aime jouer au basketball,باحب الباسكت,ni hib al basket,باحب الباسكت,ni hib al basket,invariable
+1852,1,Autres sports,He scored three points,سجل ثلاث نقاط,Il a marqué trois points,سجل تلاتة أهداف,sajjal talata hadaf,سجلت تلاتة أهداف,sajjalat talata hadaf,genre du sujet
+1853,1,Autres sports,The basket is very high,السلة عالية جداً,Le panier est très haut,السلة عالية بلهن,al salla aliye bilhen,السلة عالية بلهن,al salla aliye bilhen,invariable
+1854,1,Autres sports,He dunked the ball,سدد الكرة بقوة في السلة,Il a dunké le ballon,دنك الكورة,dank al kora,دنكت الكورة,dankat al kora,genre du sujet
+1855,1,Autres sports,The player dribbled quickly,راوغ اللاعب بسرعة,Le joueur a dribblé rapidement,اللاعب صفا بسرعة,al la'ib saffa be sur'a,اللاعبة صفّت بسرعة,al la'iba saffat be sur'a,genre du sujet
+1856,1,Autres sports,Basketball needs height and speed,كرة السلة تحتاج طولاً وسرعة,Le basketball demande de la taille et de la vitesse,الباسكت بدور لاعب طويل وسريع,al basket bidor la'ib tawil wa sari,الباسكت بدور لاعبة طويلة وسريعة,al basket bidor la'iba tawila wa saria,genre du sujet
+1857,1,Autres sports,The team practices shooting,يتدرب الفريق على التسديد,L'équipe s'entraîne au tir,الفريق بتضرب على الرمي,al fariq bitdarab ala al ramy,الفريق بتضرب على الرمي,al fariq bitdarab ala al ramy,invariable
+1858,1,Autres sports,I run every morning,أجري كل صباح,Je cours tous les matins,كلو صباح بنجري,kulu sabah bi najri,كلو صباح بنجري,kulu sabah bi najri,invariable
+1859,1,Autres sports,He is a fast runner,هو عداء سريع,C'est un coureur rapide,دا جري سريع,da jarray sari,دي جراية سريعة,di jarraya saria,genre du sujet
+1860,1,Autres sports,The race starts at seven,يبدأ السباق الساعة السابعة,La course commence à sept heures,السباق ببدأ الساعة سبعة,al sibag babda al sa'a saba'a,السباق ببدأ الساعة سبعة,al sibag babda al sa'a saba'a,invariable
+1861,1,Autres sports,He won the hundred meters,فاز بسباق المئة متر,Il a gagné le cent mètres,كسب سباق المية متر,kasab sibag al miya mitir,كسبت سباق المية متر,kasabat sibag al miya mitir,genre du sujet
+1862,1,Autres sports,The athlete trains hard,يتدرب الرياضي بجد,L'athlète s'entraîne dur,الرياضي بتضرب بجد,al riyadi bitdarab be jadd,الرياضية بتضرب بجد,al riyadiya bitdarab be jadd,genre du sujet
+1863,1,Autres sports,He jumped very far,قفز مسافة بعيدة,Il a sauté très loin,نط بعيد بلهن,natta bilhen ba'id,نطت بعيد بلهن,nattat bilhen ba'id,genre du sujet
+1864,1,Autres sports,The high jump requires technique,القفز العالي يتطلب تقنية,Le saut en hauteur demande de la technique,القفز العالي بدور معرفة,al gafz al ali bidor ma'arafa,القفز العالي بدور معرفة,al gafz al ali bidor ma'arafa,invariable
+1865,1,Autres sports,He threw the javelin far,رمى الرمح بعيداً,Il a lancé le javelot loin,رمى الرمح بعيد,rama al rumh ba'id,رمت الرمح بعيد,ramat al rumh ba'id,genre du sujet
+1866,1,Autres sports,Athletics builds endurance,ألعاب القوى تبني التحمل,L'athlétisme développe l'endurance,القوى بتبني التحمل,al guwa bitabni al tahammul,القوى بتبني التحمل,al guwa bitabni al tahammul,invariable
+1867,1,Autres sports,I train at the stadium,أتدرب في الملعب,Je m'entraîne au stade,قاعد نتدرب في الملعب,gaid nitdarab fil mal'ab,قاعدة نتدرب في الملعب,gaida nitdarab fil mal'ab,genre du sujet
+1868,1,Autres sports,He won a medal,فاز بميدالية,Il a gagné une médaille,لقى ميدالية,laga midaliya,لقت ميدالية,lagat midaliya,genre du sujet
+1869,1,Autres sports,Boxing is a difficult sport,الملاكمة رياضة صعبة,La boxe est un sport difficile,البوكس رياضة صعبة,al boks riyada sa'ba,البوكس رياضة صعبة,al boks riyada sa'ba,invariable
+1870,1,Autres sports,The boxer trains every day,يتدرب الملاكم كل يوم,Le boxeur s'entraîne tous les jours,الملاكم بتضرب كل يوم,al mulakim bitdarab kulli yom,الملاكمة بتضرب كل يوم,al mulakima bitdarab kulli yom,genre du sujet
+1871,1,Autres sports,He wears boxing gloves,يرتدي قفازات الملاكمة,Il porte des gants de boxe,لابس قفاز,labis quffaz,لابسة قفاز,labisa quffaz,genre du sujet
+1872,1,Autres sports,The boxer hit hard,ضرب الملاكم بقوة,Le boxeur a frappé fort,الملاكم ضرب بقوة,al mulakim darab be guwwa,الملاكمة ضربت بقوة,al mulakima darabat be guwwa,genre du sujet
+1873,1,Autres sports,He won the fight by knockout,فاز بالمباراة بالضربة القاضية,Il a gagné le combat par KO,كسب اللعب بضربة قاضية,kasab al li'ib be darba gadya,كسبت اللعب بضربة قاضية,kasabat al li'ib be darba gadya,genre du sujet
+1874,1,Autres sports,The referee stopped the fight,أوقف الحكم المباراة,L'arbitre a arrêté le combat,الحكم وقف اللعب,al hakam waggaf al li'ib,الحكمة وقفت اللعب,al hakama waggafat al li'ib,genre du sujet
+1875,1,Autres sports,Boxing requires strength and technique,الملاكمة تتطلب قوة وتقنية,La boxe demande de la force et de la technique,الملاكمة بدور قوة ومعرفة,al mulakama bidor guwwa wa ma'arafa,الملاكمة بدور قوة ومعرفة,al mulakama bidor guwwa wa ma'arafa,invariable
+1876,1,Autres sports,He lost the match on points,خسر المباراة بالنقاط,Il a perdu le combat aux points,خسر اللعب في الدواس,khisir al li'ib fil duwas,خسرت اللعب في الدواس,khisirat al li'ib fil duwas,genre du sujet
+1877,1,Autres sports,The ring is small,الحلبة صغيرة,Le ring est petit,الحلبة ساخطرة,al halaba sakhatra,الحلبة ساخطرة,al halaba sakhatra,invariable
+1878,1,Autres sports,He wants to become a champion,يريد أن يصبح بطلاً,Il veut devenir champion,داير يبقى بطل,dayir yibga batal,دايرة تبقى بطلة,dayira tibga batala,genre du sujet
+1879,1,Autres sports,Training requires discipline,التدريب يتطلب انضباطاً,L'entraînement demande de la discipline,التدريب بدور انضباط,al tadrib bidor indibat,التدريب بدور انضباط,al tadrib bidor indibat,invariable
+1880,1,Autres sports,Sport strengthens the body,الرياضة تقوي الجسم,Le sport renforce le corps,الرياضة تقوي الجسم,al riyada ti ghawwi al jisim,الرياضة تقوي الجسم,al riyada ti ghawwi al jisim,invariable
+1881,1,Autres sports,I do exercises every morning,أمارس التمارين كل صباح,Je fais des exercices tous les matins,كلو الصباح نساي رياض,kulu al sabah ni say riyad,كلو الصباح نساي رياض,kulu al sabah ni say riyad,invariable
+1882,1,Autres sports,He lifts weights at the gym,يرفع الأثقال في النادي,Il soulève des poids à la salle,برفع الأثقال في النادي,barfa'a al tagil fil nadi,بترفع الأثقال في النادي,bitarfa'a al tagil fil nadi,genre du sujet
+1883,1,Autres sports,She practices gymnastics,تمارس الجمباز,Elle pratique la gymnastique,بتمارس الجمباز,bitmaris al jumbaz,بتمارس الجمباز,bitmaris al jumbaz,genre du sujet
+1884,1,Autres sports,The competition is next month,المسابقة الشهر القادم,La compétition est le mois prochain,المسابقة تبدأ الشهر الجاي,al musabaka tabda al shahr al jayi,المسابقة تبدأ الشهر الجاي,al musabaka tabda al shahr al jayi,invariable
+1885,1,Autres sports,I want to represent my country,أريد تمثيل بلدي,Je veux représenter mon pays,ندور نمثل بلدي,nidor ni massil baladi,ندورة نمثل بلدي,nidora ni massil baladi,genre du sujet
+1886,1,Autres sports,The coach is demanding,المدرب صارم,L'entraîneur est exigeant,المدرب صارم,al mudarrib sarim,المدربة صارمة,al mudarriba sarima,genre du sujet
+1887,1,Autres sports,Physical effort is exhausting,الجهد البدني متعب,L'effort physique est épuisant,الجهد الجسدي متعب,al juhud al jasadi mut'ib,الجهد الجسدي متعب,al juhud al jasadi mut'ib,invariable
+1888,1,Autres sports,He never gives up,لا يستسلم أبداً,Il n'abandonne jamais,ما بيستسلم أبداً,ma bi staslam abadan,ما بتستسلمي أبداً,ma bitstaslami abadan,genre du sujet
+1889,1,Autres sports,Perseverance leads to success,المثابرة تؤدي إلى النجاح,La persévérance mène au succès,الصبر بيودي في النجاح,al sabur biwaddi fi al najah,الصبر بيودي في النجاح,al sabur biwaddi fi al najah,invariable
+1890,1,Autres sports,I watch sports competitions on TV,أشاهد المسابقات الرياضية في التلفاز,Je regarde les compétitions sportives à la télé,قاعد نشوف المسابقات,gaid ni shif al musabakat,قاعدة نشوف المسابقات,gaida ni shif al musabakat,genre du sujet
+1891,1,Autres sports,Young people need sports facilities,يحتاج الشباب مرافق رياضية,Les jeunes ont besoin d'installations sportives,الشباب محتاجين ملاعب رياضية,al shabab muhtajin le mala'ib riyadiya,الشباب محتاجين ملاعب رياضية,al shabab muhtajin le mala'ib riyadiya,invariable
+1892,1,Autres sports,Sport teaches respect,الرياضة تعلم الاحترام,Le sport enseigne le respect,الرياضة بتعلم الاحترام,al riyada bita'allim al ihtiram,الرياضة بتعلم الاحترام,al riyada bita'allim al ihtiram,invariable
+1893,1,Autres sports,He trains at dawn,يتدرب عند الفجر,Il s'entraîne à l'aube,بتدرب الصباح,bitdarab al sabah,بتدربي الصباح,bitdarabi al sabah,genre du sujet
+1894,1,Autres sports,The championship was exciting,كانت البطولة مثيرة,Le championnat était passionnant,البطولة كانت مثيرة,al butula kanat musira,البطولة كانت مثيرة,al butula kanat musira,invariable
+1895,1,Autres sports,I injured my leg during training,أصبت ساقي أثناء التدريب,Je me suis blessé la jambe pendant l'entraînement,اتصابت في رجلي وقت التمرين,itsabit fi rijli wakit al tamrin,اتصابت في رجلي وقت التمرين,itsabit fi rijli wakit al tamrin,invariable
+1896,1,Autres sports,Rest is necessary after effort,الراحة ضرورية بعد الجهد,Le repos est nécessaire après l'effort,الراحة مهمة بعد الجهود,al juma muhima ba'ad al juhud,الراحة مهمة بعد الجهود,al juma muhima ba'ad al juhud,invariable
+1897,1,Autres sports,Every sport has its own rules,لكل رياضة قواعدها الخاصة,Chaque sport a ses propres règles,أي رياضة عندها قواعدها,ayyi riyada indaha gawa'idaha,أي رياضة عندها قواعدها,ayyi riyada indaha gawa'idaha,invariable
+1898,1,Autres sports,Fair play is important,الروح الرياضية مهمة,Le fair-play est important,الروح الرياضية مهمة,al ruh al riyadiya muhima,الروح الرياضية مهمة,al ruh al riyadiya muhima,invariable
+1899,1,Autres sports,I am proud of my achievements,أنا فخور بإنجازاتي,Je suis fier de mes réalisations,أنا فخور بإنجازاتي,ana fakhur be injazati,أنا فخورة بإنجازاتي,ana fakhura be injazati,genre du sujet
+1900,1,Autres sports,May God give us strength and health,الله يعطينا القوة والصحة,Que Dieu nous donne force et santé,الله يعطينا القوة والصحة,allah yi'tina al guwwa wa al saha,الله يعطينا القوة والصحة,allah yi'tina al guwwa wa al saha,invariable
